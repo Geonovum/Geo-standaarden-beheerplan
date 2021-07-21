@@ -93,7 +93,7 @@ Met betrekking tot implementatie ondersteuning is onder andere beschikbaar, dan 
 -	Meldingen;
 -	Validator voor de technische toets van data conform de standaard.
 
-Voor iedere standaard is daarnaast, middels dit document en de website, aangegeven hoe het beheer van de standaard wordt gevoerd. Nieuwsberichten en nieuwsbrieven houden de gebruikers van de standaard op de hoogte van ontwikkelingen en activiteiten. Hoofdstuk [Implementatieondersteuning](#implementatieondersteuning)) geeft een nadere toelichting op implementatieondersteuning. 
+Voor iedere standaard is daarnaast, middels dit document en de website, aangegeven hoe het beheer van de standaard wordt gevoerd. Nieuwsberichten en nieuwsbrieven houden de gebruikers van de standaard op de hoogte van ontwikkelingen en activiteiten. Hoofdstuk [Implementatieondersteuning](#Implementatieondersteuning) geeft een nadere toelichting op implementatieondersteuning. 
 
 
 
