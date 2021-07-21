@@ -148,7 +148,3 @@ Partijen die bijdragen aan de ontwikkeling van een standaard die door Geonovum w
 Kwaliteitsbeleid en benchmarking in het kader van het beheer van de basis geo-standaarden krijgen vorm in pilots en testbeds. In de fase Toetsing (zie Figuur 4) wordt belangrijke informatie over de kwaliteit en toepasbaarheid van een standaard opgedaan. Kortlopende specifiek omschreven toetsprotocollen leiden tot betrokkenheid en input van het bedrijfsleven en andere belanghebbenden. Uitkomsten van de pilots en testbeds koppelen wij terug naar de standaard in ontwikkeling. Hoe Geonovum dit aanpakt is beschreven in paragraaf [Implementatie van de standaard](#implementatie-van-de-standaard). 
 
 
-
-<div class='note'>
-TOT HIER TOE TOT HIER TOE TOT HIER TOE TOT HIER TOE TOT HIER TOE TOT HIER TOE TOT HIER TOE TOT HIER TOE TOT HIER TOE TOT HIER TOE TOT HIER TOE TOT HIER TOE TOT HIER TOE TOT HIER TOE TOT HIER TOE TOT HIER TOE TOT HIER TOE TOT HIER TOE TOT HIER TOE TOT HIER TOE TOT HIER TOE TOT HIER TOE C
-</div>
