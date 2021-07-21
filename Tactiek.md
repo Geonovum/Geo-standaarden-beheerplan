@@ -46,7 +46,7 @@ Ontwikkelingen van de basis geo-standaarden in de toekomst maken wij inzichtelij
 
 Met behulp van de standaardenagenda geven we inzicht in onze jaarlijkse werkzaamheden en activiteiten rondom de basis geo-standaarden. De standaardenagenda wordt jaarlijks vastgesteld door de programmaraad en gepubliceerd op de website van Geonovum. De standaardenagenda is een vertaling van requirements en ontwikkelingen vanuit het werkveld. Het werkpakket benoemd in de standaardenagenda is te herleiden naar de activiteiten voor ontwikkeling en beheer conform BOMOS.
 
-![Introductieplaat standaardenagenda](media/introductieplaat_standaardenagenda.png)
+![Introductieplaat standaardenagenda](media/Introductieplaat_standaardenagenda.png)
 
 
 
