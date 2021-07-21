@@ -48,6 +48,44 @@ Met behulp van de standaardenagenda geven we inzicht in onze jaarlijkse werkzaam
 
 ![Introductieplaat standaardenagenda](media/Introductieplaat_standaardenagenda.png)
 
+####	Wijzigingsbeheer 
+
+Belanghebbenden kunnen meldingen (wijzigingsverzoeken), variërend van wensen tot aanpassing van en fouten in een basis geo-standaard, indienen bij Geonovum (Een voorbeeld van een meldingen overzicht voor de geo-standaard Metadata: 
+http://www.geonovum.nl/onderwerp-artikel/meldingen-metadata). Wij geven inzicht in de ontvangen meldingen en bundelen de verzoeken tot een wijzigingsvoorstel in het geval we een wijzigingsproces starten voor een nieuwe versie van de standaard. Het [Wijzigingsprotocol](#wijzigingsprotocol)) beschrijft het wijzigingsproces en daarmee ook de procedure die het wijzigingsvoorstel doorloopt. Via onze website geven wij per standaard een overzicht van de ingediende meldingen, met daarbij per melding de status. Zo is te volgen of een melding onderzocht wordt of meegenomen in het wijzigingsvoorstel. De meldingen worden op basis van onderstaand model via de website voor eenieder beschikbaar gesteld. Sommige meldingen slaan de status AFGEMELD over.
+
+| Status   voorstel | Beschrijving activiteiten  |
+|---|---|
+| NIEUW             | Als een gebruiker een melding indient krijgt deze de status “nieuw”.  |
+| TERUGKOPPELING    | De actiehouder van de melding controleert of de melding volledig en helder is. Bij een fout gaat hij/zij in de standaard na of dit inderdaad het geval is. Hij/zij kan informatie opvragen of een onderzoek uitvoeren.      |
+| ERKEND            | Deze melding is helder beschreven en is of een wens voor het aanpassen van de standaard, dan wel een gevonden fout. Ook is de melding geen duplicaat van een reeds ingevoerde melding. De melding is hiermee formeel opgenomen in het meldingen systeem.  |
+| BEVESTIGD        | Geonovum neemt deze melding mee in het wijzigingsproces van de standaard.     |
+| TOEGEWEZEN        | De melding is toegewezen aan een actiehouder en gekoppeld aan een nieuwe versie van de standaard.   |
+| OPGELOST          | De melding is opgelost als de melding onderdeel is van de nieuwe versie van de standaard.   |
+| AFGESLOTEN        | De melding wordt afgesloten in de volgende situaties:  
+|                   | - wanneer de melding is opgenomen in de nieuwe versie van de standaard;  |
+|                   | - wanneer de wens niet wordt gehonoreerd in de nieuwe versie van de standaard;   |
+|                   | - wanneer de fout niet meer relevant wordt geacht voor de standaard.    |
+|                   | De precieze informatie hierover staat in de melding onder het attribuut ‘oplossing’. Indien een melding uiteindelijk niet is meegenomen in de nieuwe   versie van de standaard maar wel een fout/ wens blijft, wordt de status   teruggezet op erkend.      |
+
+
+####	Wijzigingsprotocol
+
+Een wijzigingsprotocol beschrijft de manier waarop wijzigingen in de basis geo-standaarden plaatsvinden: het wijzigingsproces. In het protocol zijn basisbegrippen en uitgangspunten uiteengezet voor het wijzigingsproces, bijvoorbeeld wat onder nieuwe en volgende versies verstaan wordt en wanneer deze verwacht mogen worden. De daadwerkelijke planning van een nieuwe versie is uitgewerkt in de [standaardenagenda](#standaardenagenda).
+Met behulp van een wijzigingsprotocol voor de basis geo-standaarden geeft Geonovum:
+- inzicht in het behandel- en besluitproces dat ten grondslag ligt aan het versiebeheer;
+- inzicht in de aangeboden wijzigingsvoorstellen;
+- stabiliteit aan de standaard;
+- continuïteit aan de standaard;
+- een eenduidige aanpak.
+
+
+Wijzigingen in de standaarden worden niet zomaar doorgevoerd. Voor de ene gebruiker van de standaard zal de wijziging gering zijn, voor de ander kan het grote gevolgen hebben. Daar houden wij rekening mee. De gebruikersgroepen van de standaarden en andere actoren in het wijzigingsproces zijn vastgelegd, evenals de belangrijkste taken en verantwoordelijkheden en de momenten waarop zij betrokken zijn in dit proces.
+
+Het volledig wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in figuur [Fasen wijzigingsproces](!fasen_wijzigingsproces). Iedere fase kent vaste stappen die tijdgebonden zijn met een vaste datum van inwerkingtreding van de nieuwe versie van de standaard. De fase Toetsing vormt een brug tussen de inhoud, besluitvorming en de implementatie. In deze fase wordt de inhoudelijke correctheid, de technische haalbaarheid en impact van de voorgestelde wijzigingen getoetst, als de aard van de wijziging dit noodzakelijk maakt. Er is een wezenlijk verschil met besluitvorming. Bij het toetsen wordt de inhoudelijke correctheid vastgesteld, bij besluitvorming de wenselijkheid om de voorgestelde wijzigingen door te voeren. Het resultaat van de fase Toetsing is een (mogelijk aangepast) volledig wijzigingsvoorstel voor de standaard, dat is gevrijwaard van fouten en waarvan de technische haalbaarheid en impact is getoetst.
+De stabiliteit en continuïteit van de standaard maken wij inzichtelijk met de standaardenagenda. Hierdoor is voor een ieder inzichtelijk of de standaard op korte termijn wel of niet wordt gewijzigd.
+
+![Fasen wijzigingsproces](media/fasen_wijzigingsproces.png)
+
 
 
 <div class='note'>
