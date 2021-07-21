@@ -21,6 +21,7 @@ Geonovum is ook lid van het Forum Standaardisatie zodat een goede inbreng van de
 
 Geonovum werkt samen met andere standaardisatieorganisaties als zij te maken hebben met geo-informatie en er wederzijds behoefte aan samenwerking is. Hierbij kan onderscheid gemaakt worden in twee groepen, namelijk infrastructurele en thematische standaarden en hun organisaties.
 
+**figuur Infrastructurele en thematische standaarden**
 ![Infrastructurele en thematische standaarden](media/Infrastructurele_thematische_standaarden.png)
 
 
@@ -46,7 +47,11 @@ Ontwikkelingen van de basis geo-standaarden in de toekomst maken wij inzichtelij
 
 Met behulp van de standaardenagenda geven we inzicht in onze jaarlijkse werkzaamheden en activiteiten rondom de basis geo-standaarden. De standaardenagenda wordt jaarlijks vastgesteld door de programmaraad en gepubliceerd op de website van Geonovum. De standaardenagenda is een vertaling van requirements en ontwikkelingen vanuit het werkveld. Het werkpakket benoemd in de standaardenagenda is te herleiden naar de activiteiten voor ontwikkeling en beheer conform BOMOS.
 
+**figuur Introductieplaat standaardenagenda**
+
 ![Introductieplaat standaardenagenda](media/Introductieplaat_standaardenagenda.png)
+
+
 
 ####	Wijzigingsbeheer 
 
@@ -84,7 +89,63 @@ Wijzigingen in de standaarden worden niet zomaar doorgevoerd. Voor de ene gebrui
 Het volledig wijzigingsproces doorloopt de fasen Inhoud, Toetsing, Besluitvorming en Implementatie, zoals weergegeven in figuur [Fasen wijzigingsproces](#fasen_wijzigingsproces). Iedere fase kent vaste stappen die tijdgebonden zijn met een vaste datum van inwerkingtreding van de nieuwe versie van de standaard. De fase Toetsing vormt een brug tussen de inhoud, besluitvorming en de implementatie. In deze fase wordt de inhoudelijke correctheid, de technische haalbaarheid en impact van de voorgestelde wijzigingen getoetst, als de aard van de wijziging dit noodzakelijk maakt. Er is een wezenlijk verschil met besluitvorming. Bij het toetsen wordt de inhoudelijke correctheid vastgesteld, bij besluitvorming de wenselijkheid om de voorgestelde wijzigingen door te voeren. Het resultaat van de fase Toetsing is een (mogelijk aangepast) volledig wijzigingsvoorstel voor de standaard, dat is gevrijwaard van fouten en waarvan de technische haalbaarheid en impact is getoetst.
 De stabiliteit en continuïteit van de standaard maken wij inzichtelijk met de standaardenagenda. Hierdoor is voor een ieder inzichtelijk of de standaard op korte termijn wel of niet wordt gewijzigd.
 
+**figuur Fasen wijzigingsproces**
+
 ![Fasen wijzigingsproces](media/fasen_wijzigingsproces.png)
+
+
+#### Versiebeheer
+Bij een geo-standaard in beheer horen ook afspraken over het versiebeheer. Versies van een standaard zijn er in verschillende gradaties die elk een relatie hebben met een voorgaande versie. De wijzigingen documenteren wij en leggen wij vast in een apart document bij de uitgebrachte versie van de standaard. De gebruiker kan zo nagaan op welke plaatsen de betreffende standaard gewijzigd is.
+
+Geonovum hanteert drie typen versies voor een wijziging van een basis geo-standaard. Bijvoorbeeld: versie 2.1.0 (=X.Y.Z):
+- **X-wijzigingen** Deze wijzigingen veranderen de structuur van de standaard. Hierdoor zijn X-wijzigingen niet backwards compatible.
+- Frequentie: maximaal 1 keer per 3 jaar.
+- **Y-wijzigingen** Dit zijn wijzigingen die niet de structuur veranderen. Dit kunnen bijvoorbeeld updates zijn of inhoudelijke aanpassingen aan objecten, attributen of waardelijsten of de reikwijdte van de standaard. Deze wijzigingen zijn backwards compatible.
+- Frequentie: maximaal 1 keer per jaar.
+- **Z-wijzigingen** Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard. Deze wijzigingen zijn backwards compatible.
+- Frequentie: zo spoedig mogelijk na constatering.
+
+Na het uitbrengen van een nieuwe versie van een bij Geonovum in beheer zijnde geo-standaard blijven oudere versies beschikbaar en zijn vindbaar via de Geonovum website en de registers (de conceptenbibliotheek -ie: https://definities.geostandaarden.nl  , het technisch register - zie: https://register.geostandaarden.nl en het documentenregister - zie: https://docs.geostandaarden.nl ). Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie van een geo-standaard wordt de ontwikkeling van de oude versie stopgezet.
+
+Voor het onderhoud en de ondersteuning van een oude versie van een geo-standaard gelden de volgende uitgangspunten:
+1)	Aan een oude versie worden geen nieuwe features toegevoegd na het uitbrengen van een nieuwe versie. Verzoeken om aanpassing en wijziging voor nieuwe functionaliteit worden niet meer voor de oude geo-standaard in behandeling genomen. Z-wijzigingen zijn nog wel mogelijk, indien het gebruik in de praktijk dit nog rechtvaardigt.
+
+2)	De programmaraad stelt met advies van de beheerder vast hoelang een oude versie wordt ondersteund en wanneer hij komt te vervallen (decline). Dit betekent dat vragen over het gebruik van de geo-standaard worden beantwoord (helpdesk). Daarnaast ondersteunen we de oude versie van de geo-standaard in de validator. De maximale ondersteuningstermijn is twee jaar, tenzij de programmaraad anders bepaalt. Daarna blijft de versie van de geo-standaard wel beschikbaar, maar biedt Geonovum geen ondersteuning meer, ook niet via de validator. Bij standaarden die niet meer worden ondersteund, wordt duidelijk vermeld of zichtbaar gemaakt dat deze zijn vervallen. 
+
+In het algemeen zal de Programmaraad alleen besluiten om een versie te laten vervallen en de ondersteuning te staken, als het de verwachting en/of de intentie is dat gebruikers alleen nog actief de nieuwe versie toepassen en daarbij ondersteuning behoeven.
+
+####	Procesvarianten
+In paragraaf [versiebeheer](#versiebeheer). zijn de X, Y en Z wijzigingen uitgelegd. Voor wijzigingen kent Geonovum twee proces varianten. Eén voor X en Y wijzigingen en één voor Z wijzigingen. 
+
+**Proces voor X en Y wijzigingen**
+
+Deze vergen volledige afstemming en het doorlopen van alle in paragraaf 3.4 beschreven fasen: Inhoud, Toetsing, Besluitvorming en Implementatie. Voor de inhoudelijke fase wordt een werkgroep gestart met daarin vertegenwoordiging van belangrijke stakeholders. Het resultaat van de werkgroep wordt in een openbare consultatie getoetst. Besluitvorming over vaststelling van een standaard vindt plaats in de programmaraad van Geonovum. Indien nodig wordt met softwareleveranciers een convenant afgesloten of een bestaand convenant uitgebreid, waarin wordt afgesproken dat zij (onderdelen van) de standaard gaan ondersteunen.
+
+**Proces voor Z wijzigingen**
+
+Deze dienen zo snel als mogelijk uitgevoerd te worden. De inhoudelijke fase wordt door een medewerker van Geonovum gedaan. Toetsing vindt plaats d.m.v. een (beperkte) consultatie met stakeholders. Besluitvorming vindt plaats door het standaardenteam van Geonovum met een notificatie van de wijziging aan de programmaraad. Implementatie vindt plaats door het publiceren van de wijziging op de website van Geonovum. 
+
+
+###	Community
+
+Betrokkenheid van de gemeenschap bij de verdere ontwikkeling van de standaarden is voor het gebruik en de draagvlak ervan van groot belang. Voor de basis geo-standaarden geldt dat geen onderscheid wordt gemaakt tussen publieke en private organisaties en bijvoorbeeld kennisinstellingen. Zij vormen samen de community. Aan de inspraak in het wijzigingsproces zijn voor hen geen kosten verbonden.
+Geonovum informeert en betrekt de community via onze website en de verschillende nieuwsbrieven. Uit de community worden de werkgroepen gevormd op het moment dat dit benodigd is. De vergaderdata en verslagen van deze werkgroepen zijn beschikbaar voor een ieder via de website bij de betreffende standaard. Inschrijven voor bijeenkomsten is mogelijk via info@geonovum.nl.
+
+Een voorbeeld van een bestaande werkgroep is NEN 3610. Deze is samengesteld uit de beheerders en eigenaren van sectorale informatiemodellen, die onder het Basismodel Geo-informatie (NEN 3610) vallen. Primair doel is kennisbundeling en -overdracht tussen sectorale informatiemodellen. Hierdoor en door de harmonisatie van inhoud en afstemming van het beheer tussen de modellen blijft het door NEN 3610 gevormde stelsel een stevige basis voor uitwisseling en integratie van geo-informatie. Deze werkgroep verzorgt ook de inhoudelijke inbreng voor de NEN normcommissie 351 240 Geo-informatie waar nieuwe versies van NEN 3610 procedureel worden bepaald.
+
+###	Adoptie en erkenning
+
+Het gebruik van de basis geo-standaarden is niet vanzelfsprekend. De toepassing ervan in de praktijk is ons uiteindelijke doel. Werkgroepen zijn hierbij van wezenlijk belang. Voor de adoptie en erkenning van de geo-standaarden door het werkveld heeft Geonovum onder andere de basis geo-standaarden aangeboden aan het Forum Standaardisatie (Zie: http://forumstandaardisatie.nl/). Zij publiceren lijsten met open standaarden die door hen zijn goedgekeurd, waaronder de basis geo-standaarden (Zie: https://www.forumstandaardisatie.nl/standaard/geo-standaarden ).  Daarnaast adviseren zij in het gebruik van open standaarden.
+In samenwerking met NEN normcommissie 351 240 Geo-informatie (Zie: https://www.nen.nl/normcommissie-geo-informatie) streven wij naar adoptie en erkenning van het Basismodel Geo-informatie (NEN 3610).
+
+###	Rechtenbeleid
+
+Het organiseren van auteursrecht en de vrijwaringen op het gebied van intellectueel eigendom zijn zaken die onder rechtenbeleid vallen. Het doel hiervan is de beschikbaarheid van de standaarden inzichtelijk te maken. Geonovum geeft aan hoe, voor wie op welke wijze de standaarden beschikbaar zijn door middel van Creative Commons. Elk nieuw document dat vanaf 1 januari 2018 door Geonovum wordt gepubliceerd is voorzien van de volgende licentie:  https://creativecommons.org/licenses/by-nd/4.0/deed.nl
+Partijen die bijdragen aan de ontwikkeling van een standaard die door Geonovum wordt beheerd dienen te accepteren dat hun intellectueel eigendomsrecht altijd onder bovenstaande licentie door Geonovum beschikbaar wordt gesteld.
+
+###	Kwaliteitsbeleid en benchmarking
+
+Kwaliteitsbeleid en benchmarking in het kader van het beheer van de basis geo-standaarden krijgen vorm in pilots en testbeds. In de fase Toetsing (zie Figuur 4) wordt belangrijke informatie over de kwaliteit en toepasbaarheid van een standaard opgedaan. Kortlopende specifiek omschreven toetsprotocollen leiden tot betrokkenheid en input van het bedrijfsleven en andere belanghebbenden. Uitkomsten van de pilots en testbeds koppelen wij terug naar de standaard in ontwikkeling. Hoe Geonovum dit aanpakt is beschreven in paragraaf [Implementatie van de standaard](#implementatie-van-de-standaard). 
 
 
 
