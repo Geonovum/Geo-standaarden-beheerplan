@@ -62,7 +62,7 @@ var respecConfig =
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
   issueBase: "https://github.com/Geonovum/Geo-standaarden-beheerplan/issues",
   //-- edDraftURI: de URI van de werkversie van het document
-  edDraftURI: "https://github/Geonovum/Geo-standaarden-beheerplan",
+  edDraftURI: "https://github.com/Geonovum/Geo-standaarden-beheerplan",
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   editors: 
