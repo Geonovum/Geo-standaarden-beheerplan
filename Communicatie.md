@@ -32,6 +32,6 @@ Klachten met betrekking tot de standaarden zijn van de volgende aard:
 -	over de toepassingsmogelijkheid van de standaard;
 -	over het beheer van de standaard.
 
-In het eerste geval behandelt de helpdesk de klacht. Uitleg geven over het gebruik van de standaard is een van de taken van het beheer van de standaard. De klacht kan mogelijk leiden tot een wens tot aanpassing van de standaard. Dit wordt dan als melding geregistreerd (zie [Wijzigingsbeheer](#wijzigingsbeheer). 
+In het eerste geval behandelt de helpdesk de klacht. Uitleg geven over het gebruik van de standaard is een van de taken van het beheer van de standaard. De klacht kan mogelijk leiden tot een wens tot aanpassing van de standaard. Dit wordt dan als melding geregistreerd (zie [wijzigingsbeheer](#wijzigingsbeheer)). 
 
 In het tweede geval is er sprake van ontevredenheid over de uitvoering van het beheer van de standaard. Dit treft de organisatie die het beheer uitvoert: Geonovum zelf. De klager kan zijn/haar klacht op papier indienen bij de programmaraad. De programmaraad, die ook betrokken is bij de wijzigingsprocedure van de standaard, neemt de klacht in behandeling.
