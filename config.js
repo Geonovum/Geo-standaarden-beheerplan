@@ -94,9 +94,9 @@ var respecConfig =
     }, 
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
-  shortName: "bhrbg",  	              // Wordt gebruikt in de document URL
+  shortName: "bhr-bg",  	              // Wordt gebruikt in de document URL
   //-- pubDomain is verplicht! (komt in de URL: Activeer 1 van de volgende) ------------
-  pubDomain: "bhrbg", 	              // Beheer Basis Geo-standaarden
+  pubDomain: "bhr-bg", 	              // Beheer Basis Geo-standaarden
   //pubDomain: "mim", 	            // Metamodel Informatie Modellering
   //pubDomain: "bor", 	            // Beheer Openbare Ruimte
   //pubDomain: "bro", 	            // Basisregistratie Ondergrond
