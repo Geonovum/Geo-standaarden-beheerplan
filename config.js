@@ -68,12 +68,17 @@ var respecConfig =
   editors: 
  [
     {
-      name:       "Naam Editor-1",
+	  name:       "Friso Penninga",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 
     {
-      name:       "Naam Editor-n",
+      name:       "Dick Krijtenburg",
+      company:    "Geonovum",
+      companyURL: "https://www.geonovum.nl"
+    }, 
+    {
+      name:       "Monique van Scherpenzeel",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 
@@ -83,12 +88,12 @@ var respecConfig =
   authors: 
   [
     {
-      name:       "Naam Auteur-1",
+      name:       "Dick Krijtenburg",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 
     {
-      name:       "Naam Auteur-2",
+      name:       "Monique van Scherpenzeel",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 

@@ -1,6 +1,3 @@
 ## Samenvatting
 
-<div class='note'>
- DIT DOCUMENT IS IN BEWERKING EN WORDT OP DIT MOMENT OVERGEZET VAN WORD NAAR RESPEC
-</div>
 

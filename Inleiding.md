@@ -14,7 +14,7 @@ De basis geo-standaarden kunnen worden onderverdeeld in:
 Onder standaarden worden hier niet verstaan praktijkrichtlijnen, werkafspraken, handreikingen of andersoortige publicaties over de geo-standaarden. Deze publicaties gaan in op de toepassing van de standaarden in de praktijk, de standaarden beschrijven de vereisten.
 
 Concreet bestaan de basis geo-standaarden uit:
--	het basismodel geo-informatie (NEN3610) (Zie: http://www.geonovum.nl/onderwerpen/basismodel-geo-informatie-nen3610);
+-	het basismodel geo-informatie [NEN3610](http://www.geonovum.nl/onderwerpen/basismodel-geo-informatie-nen3610);
 -	Geography Markup Language (GML) (Zie: http://www.geonovum.nl/onderwerpen/geography-markup-language-gml);
 -	GeoPackage  (Zie: http://www.geopackage.org/spec/);
 -	metadataprofielen voor geografie en webservices (Zie: http://www.geonovum.nl/onderwerpen/services/web-feature-service-wfs) ;
