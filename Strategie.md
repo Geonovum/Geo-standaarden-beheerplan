@@ -4,8 +4,8 @@
 
 ### Governance
 
-Geonovum is een overheidsstichting met een onafhankelijk bestuur, een Raad van Toezicht en een programmaraad. De minister van BZK benoemt de leden van onze Raad van Toezicht. Onze missie, doelen, taken en jaarlijkse uitvoeringsplan staan op onze website (Zie: http://www.geonovum.nl/over-geonovum/waar-wij-voor-staan) .
-De programmaraad adviseert het bestuur over de inhoud en prioriteiten voor het basisprogramma en over onze andere werkzaamheden. Voor het basisprogramma, het beheer van de geo-standaarden, treedt de programmaraad op als stuurgroep. De programmaraad beoordeelt en beslist over deze wijzigingsvoorstellen en stelt een nieuwe (versie) van de standaard vast van geo-standaarden die bij Geonovum in beheer zijn. Ook is de programmaraad aanspreekpunt voor klachten over het beheer van de standaarden door Geonovum. De programmaraad bestaat uit vertegenwoordigers van publieke organisaties in het geo-werkveld. Zij zijn de voornaamste belanghebbenden van Geonovum (Zie: http://www.geonovum.nl/over-geonovum/wie-wij-zijn/programmaraad).
+Geonovum is een overheidsstichting met een onafhankelijk bestuur, een Raad van Toezicht en een programmaraad. De minister van BZK benoemt de leden van onze Raad van Toezicht. Onze missie, doelen, taken en jaarlijkse uitvoeringsplan staan op onze [website](http://www.geonovum.nl/over-geonovum/waar-wij-voor-staan) .
+De programmaraad adviseert het bestuur over de inhoud en prioriteiten voor het basisprogramma en over onze andere werkzaamheden. Voor het basisprogramma, het beheer van de geo-standaarden, treedt de programmaraad op als stuurgroep. De programmaraad beoordeelt en beslist over deze wijzigingsvoorstellen en stelt een nieuwe (versie) van de standaard vast van geo-standaarden die bij Geonovum in beheer zijn. Ook is de programmaraad aanspreekpunt voor klachten over het beheer van de standaarden door Geonovum. De [programmaraad](https://www.geonovum.nl/over-geonovum/wie-wij-zijn/programmaraad) bestaat uit vertegenwoordigers van publieke organisaties in het geo-werkveld. Zij zijn de voornaamste belanghebbenden van Geonovum.
 
 ![Organogram Geonovum](media/organogram.png)
 

@@ -4,7 +4,7 @@
 
 ###	Helpdesk
 
-Voor iedere basis geo-standaard is op de Geonovum website aangegeven hoe en aan wie vragen over de standaard gesteld kunnen worden. Daarnaast is ieder standaard is aangegeven via welk adres  (Zie: http://www.geonovum.nl/contact/helpdesk) vragen over de standaard gesteld kunnen worden. 
+Voor iedere basis geo-standaard is op de Geonovum [website](https://www.geonovum.nl/contact/helpdesk) aangegeven hoe en aan wie vragen over de standaard gesteld kunnen worden.   
 
 Vragen over de standaard kunnen altijd per e-mail aan Geonovum worden gesteld via geostandaarden@geonovum.nl. De vraagsteller ontvangt binnen drie werkdagen een reactie van de helpdesk. De minimale informatie die de vraagsteller ontvangt is dat de vraag ontvangen en in behandeling is.
 
@@ -19,9 +19,9 @@ Afhankelijk van de gestelde vragen, ontwikkelingen in de standaard worden veel g
 
 ### Opleiding en advies
 
-Op verschillende manieren geven wij advies en informatie over de toepassing van de basis geo-standaarden. Dit kunnen wij bijvoorbeeld doel als gastdocent via regulier onderwijs(Zie: http://www.geonovum.nl/onderwerpen/kennisplein) voor studenten, trainingen en de wiki. 
+Op verschillende manieren geven wij advies en informatie over de toepassing van de basis geo-standaarden. Dit kunnen wij bijvoorbeeld doen als gastdocent via regulier [onderwijs](https://www.geonovum.nl/onderwerpen/kennisplein) voor studenten, trainingen en de wiki. 
 
-**Wiki** Eenduidig communiceren over de standaarden, de kennis delen en toegankelijk maken doen wij met onze wiki (Zie: http://wiki.geonovum.nl). Samen met trainers onderhouden wij de wiki’s. Zij hebben een account om wijzigingen in de wiki te kunnen doorvoeren.
+**Wiki** Eenduidig communiceren over de standaarden, de kennis delen en toegankelijk maken doen wij met onze [wiki](http://wiki.geonovum.nl). Samen met trainers onderhouden wij de wiki’s. Zij hebben een account om wijzigingen in de wiki te kunnen doorvoeren.
 
 **Train de trainer** Geonovum leidt zelf geen eindgebruikers op van de standaarden. In plaats daarvan leiden wij de mensen op die opleiding geven, zoals docenten HBO en WO, cursusleiders en softwareleveranciers. Kennis over de standaardisatie van geo-informatie staat hierin centraal. Dat doen wij op basis van behoefte op basis van de wiki’s en het liefst zoveel mogelijk in samenwerking met andere koepels.
 
@@ -30,7 +30,7 @@ Op verschillende manieren geven wij advies en informatie over de toepassing van 
 
 ### Validatie
 
-Validatie is een manier om de kwaliteit van de toepassing van de standaarden te verhogen. Geonovum heeft voor de basis geo-standaarden verschillende validators online beschikbaar (Zie: http://www.geonovum.nl/wegwijzer/validatie). Aan het gebruik van de validator zijn geen voorwaarden of kosten verbonden.
+Validatie is een manier om de kwaliteit van de toepassing van de standaarden te verhogen. Geonovum heeft voor de basis geo-standaarden verschillende validators [online](http://www.geonovum.nl/wegwijzer/validatie beschikbaar ). Aan het gebruik van de validator zijn geen voorwaarden of kosten verbonden.
 
 **Data** Een dataset die is opgesteld conform een standaard zou zo in elke applicatie die deze standaarden gebruikt, kunnen worden ingelezen. De praktijk is echter weerbarstiger. Een standaard kan net even anders zijn geïnterpreteerd in de ene applicatie, waardoor de dataset uit deze applicatie moeilijkheden geeft bij het inlezen in een andere applicatie. Het is daarom belangrijk om een mechanisme te hebben, waarmee gecheckt kan worden of een standaard juist is toegepast in een dataset.
 Met behulp van een validator kan men nagaan of een dataset conform de standaarden is opgesteld. Het is een online applicatie die een bestand controleert op de uitwisselingsstandaarden. Het directe resultaat van deze controle is een rapport met bevindingen.

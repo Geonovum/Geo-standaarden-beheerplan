@@ -15,14 +15,14 @@ Onder standaarden worden hier niet verstaan praktijkrichtlijnen, werkafspraken, 
 
 Concreet bestaan de basis geo-standaarden uit:
 -	het basismodel geo-informatie [NEN3610](http://www.geonovum.nl/onderwerpen/basismodel-geo-informatie-nen3610);
--	Geography Markup Language (GML) (Zie: http://www.geonovum.nl/onderwerpen/geography-markup-language-gml);
--	GeoPackage  (Zie: http://www.geopackage.org/spec/);
--	metadataprofielen voor geografie en webservices (Zie: http://www.geonovum.nl/onderwerpen/services/web-feature-service-wfs) ;
--	webserviceprofielen voor Web Feature Service  en Web Map Service.(Zie: http://www.geonovum.nl/onderwerpen/services/web-map-service-wms)
+-	Geography Markup Language [GML](http://www.geonovum.nl/onderwerpen/geography-markup-language-gml);
+-	[GeoPackage](http://www.geopackage.org/spec/);
+-	[metadataprofielen voor geografie en webservices](http://www.geonovum.nl/onderwerpen/services/web-feature-service-wfs) ;
+-	webserviceprofielen voor [Web Feature Service en Web Map Service](http://www.geonovum.nl/onderwerpen/services/web-map-service-wms)
 
-De basisset geo-standaarden staat op de Pas-toe-of-leg-uit-lijst  van het Forum Standaardisatie (Zie: https://www.forumstandaardisatie.nl/open-standaarden).
+De basisset geo-standaarden staat op [de Pas-toe-of-leg-uit-lijst van het Forum Standaardisatie](https://www.forumstandaardisatie.nl/open-standaarden).
 
-Met behulp van het beheer- en ontwikkelmodel voor open standaarden (BOMOS) (Zie: https://www.forumstandaardisatie.nl/thema/ontwikkelen-en-beheren-van-open-standaarden) geeft Geonovum het beheer en de verdere ontwikkeling van de basis geo-standaarden structureel vorm. Zo geven wij de gebruikers van de basis geo-standaarden, onze relaties en onszelf inzicht in hoe het beheer van deze standaarden is ingericht.
+Met behulp van het beheer- en ontwikkelmodel voor open standaarden [BOMOS](https://www.forumstandaardisatie.nl/thema/ontwikkelen-en-beheren-van-open-standaarden) geeft Geonovum het beheer en de verdere ontwikkeling van de basis geo-standaarden structureel vorm. Zo geven wij de gebruikers van de basis geo-standaarden, onze relaties en onszelf inzicht in hoe het beheer van deze standaarden is ingericht.
 
 
 

@@ -4,12 +4,12 @@
 
 ### Algemeen
 
-De basis geo-standaarden publiceren wij op onze de website (Zie: http://www.geonovum.nl) , samen met aanvullende informatie over inhoud, toepassing en meldingen gerubriceerd per onderwerp. Ook informatie over bijvoorbeeld bijeenkomsten, de werkgroepen en andere documentatie is hier te vinden. Algemene informatie over de geo-standaarden is samen gebracht op de website onder het onderwerp ‘Geo-standaarden’.
+De basis geo-standaarden publiceren wij op onze [website](https://www.geonovum.nl) , samen met aanvullende informatie over inhoud, toepassing en meldingen gerubriceerd per onderwerp. Ook informatie over bijvoorbeeld bijeenkomsten, de werkgroepen en andere documentatie is hier te vinden. Algemene informatie over de geo-standaarden is samen gebracht op de website onder het onderwerp ‘Geo-standaarden’.
 
 ### Standaarden in gebruik
 
 Het gebruik van standaarden gaat niet vanzelf. Ondanks verschillende publicaties en informatie via de Geonovum website, kunnen vragen ontstaan over de toepassing van de standaard of fouten ontdekt worden. Niet in de laatste plaats heeft de praktijk juist wel voorstellen tot verbetering van de standaard. Deze praktijkervaring kan aanleiding zijn tot de verdere ontwikkeling van een standaard. 
-Vragen, wensen tot wijziging en gevonden fouten kunnen altijd gemeld worden via de helpdesk (Geonovum heeft verschillende contact adressen, zie voor een overzicht de Geonovum website: http://www.geonovum.nl/contact/helpdesk. Voor alle basis geo-standaarden kan contact met ons worden opgenomen via geostandaarden@geonovum.nl). Daarnaast kan met behulp van een meldingen formulier een wijzigingsverzoek voor de standaard worden ingediend. Voor GML en GeoPackage is dit bij het OGC (Zie: http://ogc.standardstracker.org/). Per, bij Geonovum in beheer zijnde standaard, is een lijst van meldingen inzichtelijk. 
+Vragen, wensen tot wijziging en gevonden fouten kunnen altijd gemeld worden via de helpdesk (Geonovum heeft verschillende contact adressen, zie voor een [overzicht](http://www.geonovum.nl/contact/helpdesk) de Geonovum website. Voor alle basis geo-standaarden kan contact met ons worden opgenomen via geostandaarden@geonovum.nl). Daarnaast kan met behulp van een meldingen formulier een wijzigingsverzoek voor de standaard worden ingediend. Voor GML en GeoPackage is dit bij het [OGC](http://ogc.standardstracker.org/). Per, bij Geonovum in beheer zijnde standaard, is een lijst van meldingen inzichtelijk. 
 
 **Helpdesk** 
 
@@ -46,7 +46,7 @@ De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven
 
 Dit figuur toont twee groepen: de werkgroep en de programmaraad. De werkgroep voert het wijzigingsvoorstel in de standaard door. Dit resulteert in een definitief concept van de nieuwe versie van de standaard. De programmaraad beoordeelt dit definitief concept. Keurt zij het goed, dan is er een nieuwe standaard. Keurt zij het af, dan gaat het concept terug naar de werkgroep. Na aanpassing wordt het opnieuw aan de programmaraad voorgelegd, net zo lang totdat de programmaraad de nieuwe versie van de standaard accordeert of de standaard teruggetrokken wordt.
 Bij het vaststellen van een nieuwe versie van een standaard stelt de programmaraad met advies van Geonovum vast hoelang een oude versie wordt ondersteund en wanneer een oude versie komt te vervallen. Een uitzondering hierop is het Basismodel Geo-informatie (NEN 3610). Ook nieuwe versies van deze standaard bereidt Geonovum voor in samenwerking met werkgroepen. De programmaraad stelt de nieuwe versie niet vast, maar keurt hem goed (of af) en draagt deze vervolgens voor aan de NEN normcommissie 351 240 Geo-informatie. Deze commissie verzorgt de openbare consultatie en stelt de standaard formeel vast. 
-De programmaraad beslist, op advies van Geonovum, of zij een vastgestelde standaard voordraagt voor opname op de pas-toe-of-leg-uit-lijst voor open standaarden (Zie: https://www.forumstandaardisatie.nl/open-standaarden). Bij een positief besluit verzorgt Geonovum de voordracht bij het Forum Standaardisatie. Organisatorisch bestaat er geen formele relatie tussen de stuurgroep en het Forum Standaardisatie, inhoudelijk dus wel.
+De programmaraad beslist, op advies van Geonovum, of zij een vastgestelde standaard voordraagt voor opname op [de pas-toe-of-leg-uit-lijst voor open standaarden](https://www.forumstandaardisatie.nl/open-standaarden). Bij een positief besluit verzorgt Geonovum de voordracht bij het Forum Standaardisatie. Organisatorisch bestaat er geen formele relatie tussen de stuurgroep en het Forum Standaardisatie, inhoudelijk dus wel.
 
 
 #### Toetsing
