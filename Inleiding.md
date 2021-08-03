@@ -17,8 +17,8 @@ Concreet bestaan de basis geo-standaarden uit:
 -	het basismodel geo-informatie [NEN3610](http://www.geonovum.nl/onderwerpen/basismodel-geo-informatie-nen3610);
 -	Geography Markup Language [GML](http://www.geonovum.nl/onderwerpen/geography-markup-language-gml);
 -	[GeoPackage](http://www.geopackage.org/spec/);
--	[metadataprofielen voor geografie en webservices](http://www.geonovum.nl/onderwerpen/services/web-feature-service-wfs) ;
--	webserviceprofielen voor [Web Feature Service en Web Map Service](http://www.geonovum.nl/onderwerpen/services/web-map-service-wms)
+-	[metadataprofielen voor geografie en webservices](https://www.geonovum.nl/geo-standaarden/metadata) ;
+-	webserviceprofielen voor [Web Feature Service en Web Map Service](https://www.geonovum.nl/geo-standaarden/services)
 
 De basisset geo-standaarden staat op [de Pas-toe-of-leg-uit-lijst van het Forum Standaardisatie](https://www.forumstandaardisatie.nl/open-standaarden).
 
@@ -28,5 +28,5 @@ Met behulp van het beheer- en ontwikkelmodel voor open standaarden [BOMOS](https
 
 ### Leeswijzer
 
-Na deze inleiding leest u in Hoofdstuk 2 de strategie voor het beheer van de basis geo-standaarden: de governance, onze visie en de financiën voor het beheer van deze standaarden. Hoofdstuk 3 gaat in op de tactiek van het beheer. De architectuur van de standaarden is de basis voor toekomstige ontwikkelingen die met behulp van de standaardenagenda inzichtelijk worden gemaakt voor de gemeenschap. Wat Geonovum doet om adoptie en erkenning van standaarden te bewerkstelligen is ook in dit hoofdstuk beschreven. De praktische kant hiervan is in Hoofdstuk 4 uitgewerkt. In Hoofdstuk 5 komt vervolgens de implementatieondersteuning aan bod. Hoe geeft Geonovum als beheerder advies en opleiding over de geo-standaarden en waar kan men terecht met vragen? Het toetsen van de data aan de standaarden kan met behulp van een Validator. Hoofdstuk 6 geeft tot slot inzicht in de communicatie over de basis geo-standaarden.
+Na deze inleiding leest u in [Hoofdstuk 2](#strategie) de strategie voor het beheer van de basis geo-standaarden: de governance, onze visie en de financiën voor het beheer van deze standaarden. [Hoofdstuk 3](#tactiek) gaat in op de tactiek van het beheer. De architectuur van de standaarden is de basis voor toekomstige ontwikkelingen die met behulp van de standaardenagenda inzichtelijk worden gemaakt voor de gemeenschap. Wat Geonovum doet om adoptie en erkenning van standaarden te bewerkstelligen is ook in dit hoofdstuk beschreven. De praktische kant hiervan is in [Hoofdstuk 4](#operationeel) uitgewerkt. In [Hoofdstuk 5](#implementatieondersteuing) komt vervolgens de implementatieondersteuning aan bod. Hoe geeft Geonovum als beheerder advies en opleiding over de geo-standaarden en waar kan men terecht met vragen? Het toetsen van de data aan de standaarden kan met behulp van een Validator. [Hoofdstuk 6](#communicatie) geeft tot slot inzicht in de communicatie over de basis geo-standaarden.
 

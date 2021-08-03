@@ -13,9 +13,8 @@ Belangrijk uitgangspunt van Geonovum bij standaardisatie is de afstemming met in
 Op onze website staat een overzicht van [standaardisatieorganisaties op nationaal, Europees en internationaal niveau](https://www.geonovum.nl/onderwerpen/standaardisatie-nationaal-en-internationaal/algemeen-standaardisatie). Wij zijn op deze drie niveaus actief en daardoor op de hoogte van relevante ontwikkelingen.
 
 Geonovum behartigt de Nederlandse belangen voor geo-standaarden door actieve participatie binnen de internationale standaardisatiefora [ISO/TC 211](http://www.isotc211.org ), [OGC](http://www.opengeospatial.org) en [W3C](http://www.w3.org) . Deze standaardisatie organisaties maken technische geo-standaarden die Nederland semantisch invult. Geonovum is tevens betrokken bij de Europese richtlijn [INSPIRE](http://inspire.jrc.ec.europa.eu/). 
-Participatie bestaat onder andere uit deelname aan de werkgroepen, die standaarden ontwikkelen en aanpassen. Daarnaast volgen wij de ontwikkelingen bij en OMG (Zie: www.omg.org)  die zich bezighouden met standaarden voor het web en ICT. En op Europees niveau in [CEN/TC 287](http://standards.cen.eu/).
+Participatie bestaat onder andere uit deelname aan de werkgroepen, die standaarden ontwikkelen en aanpassen. Daarnaast volgen wij de ontwikkelingen bij en [OMG](www.omg.org)  die zich bezighouden met standaarden voor het web en ICT. En op Europees niveau in [CEN/TC 287](http://standards.cen.eu/).
 Geonovum is ook lid van het Forum Standaardisatie zodat een goede inbreng van de geo-standaarden naar de e-overheid en visa versa is geborgd. De voorbereidingen van de bijeenkomsten van ISO/TC 211 en CEN/TC 287 en stemmingen worden gedaan in de [NEN normcommissie 351 240 Geo-informatie](https://www.geonovum.nl/onderwerpen/standaardisatie-nationaal-en-internationaal/nen-normcommissie). Geonovum is voorzitter van deze normcommissie die bestaat uit een representatieve afvaardiging van Nederlandse belanghebbende organisaties.
-       |
 
 ### Samenwerking met andere beheerorganisaties
 
