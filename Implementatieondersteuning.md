@@ -30,7 +30,9 @@ Op verschillende manieren geven wij advies en informatie over de toepassing van 
 
 ### Validatie
 
-Validatie is een manier om de kwaliteit van de toepassing van de standaarden te verhogen. Geonovum heeft voor de basis geo-standaarden verschillende validators [online](http://www.geonovum.nl/wegwijzer/validatie beschikbaar ). Aan het gebruik van de validator zijn geen voorwaarden of kosten verbonden.
+Validatie is een manier om de kwaliteit van de toepassing van de standaarden te verhogen. Geonovum heeft voor de basis geo-standaarden verschillende validators [online](https://validatie.geostandaarden.nl/) beschikbaar. Aan het gebruik van de validator zijn geen voorwaarden of kosten verbonden.
+Daarnaast is de kennis en ervaring die we daarmee hebben opgedaan zijn bij elkaar gebracht in één nieuwe online validator. Deze nieuwe validator, de [ETF-validator](https://www.geonovum.nl/over-geonovum/actueel/vanaf-1-juli-is-er-nog-maar-een-geonovum-validator), is de centrale ingang voor validatie van data, metadata en services tegen nationale en internationale standaarden en profielen.
+
 
 **Data** Een dataset die is opgesteld conform een standaard zou zo in elke applicatie die deze standaarden gebruikt, kunnen worden ingelezen. De praktijk is echter weerbarstiger. Een standaard kan net even anders zijn geïnterpreteerd in de ene applicatie, waardoor de dataset uit deze applicatie moeilijkheden geeft bij het inlezen in een andere applicatie. Het is daarom belangrijk om een mechanisme te hebben, waarmee gecheckt kan worden of een standaard juist is toegepast in een dataset.
 Met behulp van een validator kan men nagaan of een dataset conform de standaarden is opgesteld. Het is een online applicatie die een bestand controleert op de uitwisselingsstandaarden. Het directe resultaat van deze controle is een rapport met bevindingen.
