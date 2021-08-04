@@ -28,10 +28,13 @@ Is een (nieuwe versie van een) standaard eenmaal vastgesteld, dan kan hij in geb
 
 ###	Klachtenafhandeling
 
-Klachten met betrekking tot de standaarden zijn van de volgende aard:
--	over de toepassingsmogelijkheid van de standaard;
--	over het beheer van de standaard.
+Het garanderen van het serieus nemen van klachten kan alleen, door deze volgens een zorgvuldige procedure te behandelen. Klachten kunnen ook beschouwd worden als verbetersuggestie. We onderscheiden daarom twee verschillende type klachten met betrekking tot de standaarden:
+-	Klachten over de toepassingsmogelijkheid van de standaard;
+-	Klachten over het beheer van de standaard.
 
-In het eerste geval behandelt de helpdesk de klacht. Uitleg geven over het gebruik van de standaard is een van de taken van het beheer van de standaard. De klacht kan mogelijk leiden tot een wens tot aanpassing van de standaard. Dit wordt dan als melding geregistreerd (zie [wijzigingsbeheer](#wijzigingsbeheer)). 
+In het eerste geval is het feitelijk geen klacht maar een wens of eis tot het aanpassen van de standaard. De beheerders van de betreffende geo-standaard nemen dit in behandeling en vastgelegd als wijzigingsverzoek en niet als klacht. In dit geval doet Geonovum haar werk goed. 
+In het tweede geval is er sprake van ontevredenheid over de uitvoering van het beheerproces van de geo-standaard en betreft niet de inhoud, de geo-standaard zelf. De indiener is van mening dat Geonovum, het standaardenteam, dan wel een persoon het werk niet naar behoren uitvoert. In dat geval wordt de klacht doorgezet naar de [Programmaraad](#Governance). 
 
-In het tweede geval is er sprake van ontevredenheid over de uitvoering van het beheer van de standaard. Dit treft de organisatie die het beheer uitvoert: Geonovum zelf. De klager kan zijn/haar klacht op papier indienen bij de programmaraad. De programmaraad, die ook betrokken is bij de wijzigingsprocedure van de standaard, neemt de klacht in behandeling.
+De route van indienen van klachten is bij Geonovum in principe via de helpdesk geo-standaarden. Dit is de manier om met Geonovum in contact te komen, vragen te stellen en wensen en eisen met betrekking tot de standaard kenbaar te maken. De helpdesk route voor zowel vragen, wijzigingsverzoeken, klachten en incidenten geeft een zo compleet mogelijk overzicht in het contact met de gebruikers van de standaarden, over de standaarden. 
+
+
