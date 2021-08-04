@@ -33,7 +33,7 @@ Het garanderen van het serieus nemen van klachten kan alleen, door deze volgens 
 -	Klachten over het beheer van de standaard.
 
 In het eerste geval is het feitelijk geen klacht maar een wens of eis tot het aanpassen van de standaard. De beheerders van de betreffende geo-standaard nemen dit in behandeling en vastgelegd als wijzigingsverzoek en niet als klacht. In dit geval doet Geonovum haar werk goed. 
-In het tweede geval is er sprake van ontevredenheid over de uitvoering van het beheerproces van de geo-standaard en betreft niet de inhoud, de geo-standaard zelf. De indiener is van mening dat Geonovum, het standaardenteam, dan wel een persoon het werk niet naar behoren uitvoert. In dat geval wordt de klacht doorgezet naar de [Programmaraad](#Governance). 
+In het tweede geval is er sprake van ontevredenheid over de uitvoering van het beheerproces van de geo-standaard en betreft niet de inhoud, de geo-standaard zelf. De indiener is van mening dat Geonovum, het standaardenteam, dan wel een persoon het werk niet naar behoren uitvoert. In dat geval wordt de klacht doorgezet naar de [Programmaraad](#governance). 
 
 De route van indienen van klachten is bij Geonovum in principe via de helpdesk geo-standaarden. Dit is de manier om met Geonovum in contact te komen, vragen te stellen en wensen en eisen met betrekking tot de standaard kenbaar te maken. De helpdesk route voor zowel vragen, wijzigingsverzoeken, klachten en incidenten geeft een zo compleet mogelijk overzicht in het contact met de gebruikers van de standaarden, over de standaarden. 
 
