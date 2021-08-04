@@ -9,7 +9,7 @@ De basis geo-standaarden publiceren wij op onze [website](https://www.geonovum.n
 ### Standaarden in gebruik
 
 Het gebruik van standaarden gaat niet vanzelf. Ondanks verschillende publicaties en informatie via de Geonovum website, kunnen vragen ontstaan over de toepassing van de standaard of fouten ontdekt worden. Niet in de laatste plaats heeft de praktijk juist wel voorstellen tot verbetering van de standaard. Deze praktijkervaring kan aanleiding zijn tot de verdere ontwikkeling van een standaard. 
-Vragen, wensen tot wijziging en gevonden fouten kunnen altijd gemeld worden via de helpdesk (Geonovum heeft verschillende contact adressen, zie voor een [overzicht](http://www.geonovum.nl/contact/helpdesk) de Geonovum website. Voor alle basis geo-standaarden kan contact met ons worden opgenomen via geostandaarden@geonovum.nl). Daarnaast kan met behulp van een meldingen formulier een wijzigingsverzoek voor de standaard worden ingediend. Voor GML en GeoPackage is dit bij het [OGC](http://ogc.standardstracker.org/). Per, bij Geonovum in beheer zijnde standaard, is een lijst van meldingen inzichtelijk. 
+Vragen, wensen tot wijziging en gevonden fouten kunnen altijd gemeld worden via de helpdesk (Geonovum heeft verschillende contact adressen, zie voor een [overzicht](http://www.geonovum.nl/contact/helpdesk) de Geonovum website. Voor alle basis geo-standaarden kan contact met ons worden opgenomen via geostandaarden@geonovum.nl of stel je vraag op het [Geoforum](https://geoforum.nl/)). Daarnaast kan met behulp van een meldingen formulier een wijzigingsverzoek voor de standaard worden ingediend. Voor GML en GeoPackage is dit bij het [OGC](http://ogc.standardstracker.org/). Per, bij Geonovum in beheer zijnde standaard, is een lijst van meldingen inzichtelijk. 
 
 **Helpdesk** 
 
@@ -81,6 +81,11 @@ Naast het gebruik van normen is NEN 3610 de enige norm waar Geonovum een inhoude
 **Handreiking**  Op zichzelf staande documentatie dat als doel heeft een hulpmiddel te zijn, niet verplichtend maar ondersteunend.
 
 **Werkafspraak**  Legt uit hoe wetgeving moet worden toegepast bij onduidelijkheden, discrepanties of fouten in de standaarden.
+
+**Algemeen**  Op zichzelf staande algemene documentatie over standaarden. De documentatie betreft niet een specifieke standaard of onderdeel daarvan, het is ook geen beheerdocumentatie van een specifieke standaard.
+
+**Beheerdocumentatie**   Documentatie met betrekking tot het beheerproces van de standaard. Deze documentatie betreft niet een standaard of onderdeel daarvan, zoals een handreiking of werkafspraak. Dit kan interne gerichte documentatie zijn voor vastleggen van stappen in het dagelijkse werkproces, planning of hoe de helpdesk werkt. Ook kan dit een beheerplan of handboek zijn. Als dit soort documentatie publiekelijk beschikbaar wordt gesteld, dan gebeurd dit door middel van ReSpec. 
+
 
 ####	Hulpmiddelen
 
