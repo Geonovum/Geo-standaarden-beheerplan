@@ -96,9 +96,9 @@ De stabiliteit en continuïteit van de standaard maken wij inzichtelijk met de s
 Bij een geo-standaard in beheer horen ook afspraken over het versiebeheer. Versies van een standaard zijn er in verschillende gradaties die elk een relatie hebben met een voorgaande versie. De wijzigingen documenteren wij en leggen wij vast in een apart document bij de uitgebrachte versie van de standaard. De gebruiker kan zo nagaan op welke plaatsen de betreffende standaard gewijzigd is.
 
 Geonovum hanteert drie typen versies voor een wijziging van een basis geo-standaard. Bijvoorbeeld: versie 2.1.0 (=X.Y.Z):
-1. **X-wijzigingen** Deze wijzigingen veranderen de structuur van de standaard. Hierdoor zijn X-wijzigingen niet backwards compatible. Frequentie: maximaal 1 keer per 3 jaar.
-2. **Y-wijzigingen** Dit zijn wijzigingen die niet de structuur veranderen. Dit kunnen bijvoorbeeld updates zijn of inhoudelijke aanpassingen aan objecten, attributen of waardelijsten of de reikwijdte van de standaard. Deze wijzigingen zijn backwards compatible. Frequentie: maximaal 1 keer per jaar.
-3.   **Z-wijzigingen** Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard. Deze wijzigingen zijn backwards compatible. Frequentie: zo spoedig mogelijk na constatering.
+- **X-wijzigingen** Deze wijzigingen veranderen de structuur van de standaard. Hierdoor zijn X-wijzigingen niet backwards compatible. Frequentie: maximaal 1 keer per 3 jaar.
+- **Y-wijzigingen** Dit zijn wijzigingen die niet de structuur veranderen. Dit kunnen bijvoorbeeld updates zijn of inhoudelijke aanpassingen aan objecten, attributen of waardelijsten of de reikwijdte van de standaard. Deze wijzigingen zijn backwards compatible. Frequentie: maximaal 1 keer per jaar.
+- **Z-wijzigingen** Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard. Deze wijzigingen zijn backwards compatible. Frequentie: zo spoedig mogelijk na constatering.
 
 Na het uitbrengen van een nieuwe versie van een bij Geonovum in beheer zijnde geo-standaard blijven oudere versies beschikbaar en zijn vindbaar via de Geonovum website en de registers ([de conceptenbibliotheek](https://definities.geostandaarden.nl), [het technisch register](https://register.geostandaarden.nl) en [het documentenregister](https://docs.geostandaarden.nl)). Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie van een geo-standaard wordt de ontwikkeling van de oude versie stopgezet.
 
