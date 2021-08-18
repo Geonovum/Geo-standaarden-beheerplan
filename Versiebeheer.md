@@ -22,3 +22,4 @@ Dit document is aan verandering onderhevig. Het versiebeheer van het document ge
 |||||-Toevoegen GeoPackage aan set Geostandaarden t.g.v. besluitvorming Forum Standaardisatie|
 |||||-Correctie in naamgeving (o.a. Ministerie IenM vervangen door BZK, EZ als subsidieverstrekker nu vervangen door LNV)|
 |||||-Releasebeleid geactualiseerd n.a.v. vaststelling wijzigingsprotocol in Programmaraad 2 juli 2019 (update paragrafen Wijzigingsprotocol, versiebeheer, toevoeging pragraaf Procesvarianten)                 |
+|        | 13-mrt-17 | Definitief |

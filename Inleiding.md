@@ -22,7 +22,7 @@ Concreet bestaan de basis geo-standaarden uit:
 
 De basisset geo-standaarden staat op [de Pas-toe-of-leg-uit-lijst van het Forum Standaardisatie](https://www.forumstandaardisatie.nl/open-standaarden).
 
-Met behulp van het beheer- en ontwikkelmodel voor open standaarden [BOMOS](https://www.forumstandaardisatie.nl/thema/ontwikkelen-en-beheren-van-open-standaarden) geeft Geonovum het beheer en de verdere ontwikkeling van de basis geo-standaarden structureel vorm. Zo geven wij de gebruikers van de basis geo-standaarden, onze relaties en onszelf inzicht in hoe het beheer van deze standaarden is ingericht.
+Met behulp van het beheer- en ontwikkelmodel voor open standaarden [BOMOS](https://www.logius.nl/diensten/bomos) geeft Geonovum het beheer en de verdere ontwikkeling van de basis geo-standaarden structureel vorm. Zo geven wij de gebruikers van de basis geo-standaarden, onze relaties en onszelf inzicht in hoe het beheer van deze standaarden is ingericht.
 
 
 

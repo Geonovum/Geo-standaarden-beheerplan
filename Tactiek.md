@@ -12,11 +12,11 @@ Architectuur richt zich op de samenhang tussen de standaarden onderling en op he
 Belangrijk uitgangspunt van Geonovum bij standaardisatie is de afstemming met internationale ontwikkelingen. Ontwikkelingen in standaarden op internationaal, Europees en nationaal niveau zijn van invloed op het beheer van de basis geo-standaarden. Geonovum zorgt ervoor dat nieuwe en veranderde internationale geo-standaarden, indien relevant en door Nederland ondersteund, geadopteerd en erkend worden in Nederland. 
 Op onze website staat een overzicht van [standaardisatieorganisaties op nationaal, Europees en internationaal niveau](https://www.geonovum.nl/themas/standaardisatie). Wij zijn op deze drie niveaus actief en daardoor op de hoogte van relevante ontwikkelingen.
 
-Geonovum behartigt de Nederlandse belangen voor geo-standaarden door actieve participatie binnen de internationale standaardisatiefora [ISO/TC 211](http://www.isotc211.org ), [OGC](http://www.opengeospatial.org) en [W3C](http://www.w3.org) . Deze standaardisatie organisaties maken technische geo-standaarden die Nederland semantisch invult. Geonovum is tevens betrokken bij de Europese richtlijn [INSPIRE](http://inspire.jrc.ec.europa.eu/). 
-Participatie bestaat onder andere uit deelname aan de werkgroepen, die standaarden ontwikkelen en aanpassen. Daarnaast volgen wij de ontwikkelingen bij en [OMG](www.omg.org)  die zich bezighouden met standaarden voor het web en ICT. En op Europees niveau in [CEN/TC 287](http://standards.cen.eu/).
+Geonovum behartigt de Nederlandse belangen voor geo-standaarden door actieve participatie binnen de internationale standaardisatiefora [ISO/TC 211](https://www.isotc211.org/), [OGC](https://www.ogc.org/) en [W3C](https://www.w3.org). Deze standaardisatie organisaties maken technische geo-standaarden die Nederland semantisch invult. Geonovum is tevens betrokken bij de Europese richtlijn [INSPIRE](https://inspire.ec.europa.eu/). 
+Participatie bestaat onder andere uit deelname aan de werkgroepen, die standaarden ontwikkelen en aanpassen. Daarnaast volgen wij de ontwikkelingen bij [OMG](https://www.omg.org/)  die zich bezighouden met standaarden voor het web en ICT. En op Europees niveau in [CEN/TC 287](https://standards.cen.eu/).
 Geonovum is ook lid van het Forum Standaardisatie zodat een goede inbreng van de geo-standaarden naar de digitale overheid en visa versa is geborgd. De voorbereidingen van de bijeenkomsten van ISO/TC 211 en CEN/TC 287 en stemmingen worden gedaan in de [NEN normcommissie 351 240 Geo-informatie](https://www.nen.nl/normcommissie-geo-informatie). Geonovum is voorzitter van deze normcommissie die bestaat uit een representatieve afvaardiging van Nederlandse belanghebbende organisaties.
 
-### Samenwerking met andere beheerorganisaties
+#### Samenwerking met andere beheerorganisaties
 
 Geonovum werkt samen met andere standaardisatieorganisaties als zij te maken hebben met geo-informatie en er wederzijds behoefte aan samenwerking is. Hierbij kan onderscheid gemaakt worden in twee groepen, namelijk infrastructurele en thematische standaarden en hun organisaties.
 
@@ -96,12 +96,9 @@ De stabiliteit en continuïteit van de standaard maken wij inzichtelijk met de s
 Bij een geo-standaard in beheer horen ook afspraken over het versiebeheer. Versies van een standaard zijn er in verschillende gradaties die elk een relatie hebben met een voorgaande versie. De wijzigingen documenteren wij en leggen wij vast in een apart document bij de uitgebrachte versie van de standaard. De gebruiker kan zo nagaan op welke plaatsen de betreffende standaard gewijzigd is.
 
 Geonovum hanteert drie typen versies voor een wijziging van een basis geo-standaard. Bijvoorbeeld: versie 2.1.0 (=X.Y.Z):
-1. **X-wijzigingen** Deze wijzigingen veranderen de structuur van de standaard. Hierdoor zijn X-wijzigingen niet backwards compatible. 
-- Frequentie: maximaal 1 keer per 3 jaar.
-2. **Y-wijzigingen** Dit zijn wijzigingen die niet de structuur veranderen. Dit kunnen bijvoorbeeld updates zijn of inhoudelijke aanpassingen aan objecten, attributen of waardelijsten of de reikwijdte van de standaard. Deze wijzigingen zijn backwards compatible. 
-- Frequentie: maximaal 1 keer per jaar.
-3.   **Z-wijzigingen** Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard. Deze wijzigingen zijn backwards compatible. 
-- Frequentie: zo spoedig mogelijk na constatering.
+1. **X-wijzigingen** Deze wijzigingen veranderen de structuur van de standaard. Hierdoor zijn X-wijzigingen niet backwards compatible. Frequentie: maximaal 1 keer per 3 jaar.
+2. **Y-wijzigingen** Dit zijn wijzigingen die niet de structuur veranderen. Dit kunnen bijvoorbeeld updates zijn of inhoudelijke aanpassingen aan objecten, attributen of waardelijsten of de reikwijdte van de standaard. Deze wijzigingen zijn backwards compatible. Frequentie: maximaal 1 keer per jaar.
+3.   **Z-wijzigingen** Dit zijn in feite oplossingen van technische fouten of verbeteringen van technische aard. Deze wijzigingen zijn backwards compatible. Frequentie: zo spoedig mogelijk na constatering.
 
 Na het uitbrengen van een nieuwe versie van een bij Geonovum in beheer zijnde geo-standaard blijven oudere versies beschikbaar en zijn vindbaar via de Geonovum website en de registers ([de conceptenbibliotheek](https://definities.geostandaarden.nl), [het technisch register](https://register.geostandaarden.nl) en [het documentenregister](https://docs.geostandaarden.nl)). Een nieuwe versie dwingt daarmee geen directe overstap af bij de gebruikers, tenzij anders (bijvoorbeeld wettelijk) bepaald. Na het uitbrengen van de nieuwe versie van een geo-standaard wordt de ontwikkeling van de oude versie stopgezet.
 

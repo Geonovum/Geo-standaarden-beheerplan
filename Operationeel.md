@@ -42,14 +42,14 @@ De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven
 
 **Figuur Proces vaststellen nieuwe standaard**
 
-![Proces vaststellen nieuwe standaard](media/proces_vaststellen_nieuwe_standaard.png)
+![Proces vaststellen nieuwe standaard][media/proces_vaststellen_nieuwe_standaard.png]
 
 Dit figuur toont twee groepen: de werkgroep en de programmaraad. De werkgroep voert het wijzigingsvoorstel in de standaard door. Dit resulteert in een definitief concept van de nieuwe versie van de standaard. De programmaraad beoordeelt dit definitief concept. Keurt zij het goed, dan is er een nieuwe standaard. Keurt zij het af, dan gaat het concept terug naar de werkgroep. Na aanpassing wordt het opnieuw aan de programmaraad voorgelegd, net zo lang totdat de programmaraad de nieuwe versie van de standaard accordeert of de standaard teruggetrokken wordt.
 Bij het vaststellen van een nieuwe versie van een standaard stelt de programmaraad met advies van Geonovum vast hoelang een oude versie wordt ondersteund en wanneer een oude versie komt te vervallen. Een uitzondering hierop is het Basismodel Geo-informatie (NEN 3610). Ook nieuwe versies van deze standaard bereidt Geonovum voor in samenwerking met werkgroepen. De programmaraad stelt de nieuwe versie niet vast, maar keurt hem goed (of af) en draagt deze vervolgens voor aan de NEN normcommissie 351 240 Geo-informatie. Deze commissie verzorgt de openbare consultatie en stelt de standaard formeel vast. 
 De programmaraad beslist, op advies van Geonovum, of zij een vastgestelde standaard voordraagt voor opname op [de pas-toe-of-leg-uit-lijst voor open standaarden](https://www.forumstandaardisatie.nl/open-standaarden). Bij een positief besluit verzorgt Geonovum de voordracht bij het Forum Standaardisatie. Organisatorisch bestaat er geen formele relatie tussen de stuurgroep en het Forum Standaardisatie, inhoudelijk dus wel.
 
 
-#### Toetsing
+### Toetsing
 
 Er is een sterke afhankelijkheid tussen de toets van een wijzigingsvoorstel en de implementatie van de nieuwe standaard in de praktijk. Deze toets voeren wij uit in de vorm van publieke consultatie, pilots en testbeds. Zij zijn van primair belang voor het slagen van het wijzigingsproces en ingebruikname van de nieuwe (versie van de) standaard. Niet goed doordachte wijzigingen zullen het werkveld in grote problemen brengen. Het werkveld betrekken wij daarom nauw bij de uitvoering van de pilots en testbed. Welke actoren en werkgroepen betrokken zijn is aangegeven in het wijzigingsprotocol van de standaarden.
 
