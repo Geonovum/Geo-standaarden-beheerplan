@@ -42,7 +42,7 @@ De meldingen en wijzigingsverzoeken alsook (inter)nationale ontwikkelingen geven
 
 **Figuur Proces vaststellen nieuwe standaard**
 
-![Proces vaststellen nieuwe standaard][media/proces_vaststellen_nieuwe_standaard.png]
+![Proces vaststellen nieuwe standaard](media/proces_vaststellen_nieuwe_standaard.png)
 
 Dit figuur toont twee groepen: de werkgroep en de programmaraad. De werkgroep voert het wijzigingsvoorstel in de standaard door. Dit resulteert in een definitief concept van de nieuwe versie van de standaard. De programmaraad beoordeelt dit definitief concept. Keurt zij het goed, dan is er een nieuwe standaard. Keurt zij het af, dan gaat het concept terug naar de werkgroep. Na aanpassing wordt het opnieuw aan de programmaraad voorgelegd, net zo lang totdat de programmaraad de nieuwe versie van de standaard accordeert of de standaard teruggetrokken wordt.
 Bij het vaststellen van een nieuwe versie van een standaard stelt de programmaraad met advies van Geonovum vast hoelang een oude versie wordt ondersteund en wanneer een oude versie komt te vervallen. Een uitzondering hierop is het Basismodel Geo-informatie (NEN 3610). Ook nieuwe versies van deze standaard bereidt Geonovum voor in samenwerking met werkgroepen. De programmaraad stelt de nieuwe versie niet vast, maar keurt hem goed (of af) en draagt deze vervolgens voor aan de NEN normcommissie 351 240 Geo-informatie. Deze commissie verzorgt de openbare consultatie en stelt de standaard formeel vast. 
