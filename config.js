@@ -40,23 +40,23 @@ var respecConfig =
 {
   //-- specStatus is verplicht! (activeer 1 van de volgende) --------------------------
   //specStatus: "GN-BASIS",             // Basis Document
-  specStatus: "GN-WV",              // Werk Versie
+  //specStatus: "GN-WV",              // Werk Versie
   //specStatus: "GN-CV",              // Consultatie Versie
   //specStatus: "GN-VV",              // Vaststellings Versie
-  //specStatus: "GN-DEF",             // Definitieve Versie
+  specStatus: "GN-DEF",             // Definitieve Versie
   //-- specType is verplicht bij alle andere dan BASIS ---------------------------------
   //specType: "NO",                   // Norm
-  specType: "ST",                   // Standaard
+  //specType: "ST",                   // Standaard
   //specType: "IM",                   // Informatie Model
   //specType: "PR",                   // Praktijkrichtlijn
   //specType: "HR",                   // HandReiking
   //specType: "WA",                   // Werkafspraak
-  //specType: "BD",                   // Beheer Documentatie
+  specType: "BD",                   // Beheer Documentatie
   //-- format is verplicht! -----------------------------------------------------------
   format: "markdown",                 // altijd "markdown" - JvG W3C aangepast, op 1 plek markdown aangeven    
   //-- publishDate is verplicht -------------------------------------------------------
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
-  //publishDate: "2019-10-08",  	    // Format is "YYYY-MM-DD"
+  publishDate: "2019-08-18",  	    // Format is "YYYY-MM-DD"
   //-- Repositorynaam op GitHub -------------------------------------------------------
   github: "https://github.com/Geonovum/Geo-standaarden-beheerplan", 
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
@@ -99,9 +99,9 @@ var respecConfig =
     }, 
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
-  shortName: "bhr-bg",  	              // Wordt gebruikt in de document URL
+  shortName: "gsb",  	              // Geonovum Standaarden Beheerplan
   //-- pubDomain is verplicht! (komt in de URL: Activeer 1 van de volgende) ------------
-  pubDomain: "bhr-bg", 	              // Beheer Basis Geo-standaarden
+  pubDomain: "gbd", 	              // Geonovum Beheer Documentatie
   //pubDomain: "mim", 	            // Metamodel Informatie Modellering
   //pubDomain: "bor", 	            // Beheer Openbare Ruimte
   //pubDomain: "bro", 	            // Basisregistratie Ondergrond
