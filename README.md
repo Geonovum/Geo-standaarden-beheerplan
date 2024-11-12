@@ -1,5 +1,5 @@
 # Geo-standaarden Beheerplan
 
-Voor de leesbare respec versie klik [hier](https://geonovum.github.io/Geo-standaarden-beheerplan/)
+Voor de leesbare werkversie in ReSpec klik [hier](https://geonovum.github.io/Geo-standaarden-beheerplan/)
 
 
