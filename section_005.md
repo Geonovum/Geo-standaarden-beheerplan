@@ -39,15 +39,13 @@ Voor de uitvoering van het beheer en de doorontwikkeling van de geo-standaarden 
 <li>Het basisprogramma volgt en neemt deel aan relevante internationale standaardisatieorganisaties;</li>
 <li>Het basisprogramma identificeert en verkent innovaties met mogelijke relevantie voor het geo-werkveld;</li>
 <li>Toetsing doen wij samen met gebruikers- en expertgroepen.</li>
-</ul>
-<br/>
+</ul><br/>
 <br/>
 Wij gebruiken hierbij de volgende hulpmiddelen en tooling. 
 De <a href='https://www.geonovum.nl/' target='_blank'>Geonovum website</a> is de centrale toegang om in contact te komen met Geonovum en informatie in te winnen over ons werk: Geonovum verbindt, verkent en verankert. Dit betekent dat nieuwe opdrachten, nieuwe werkzaamheden, nieuwe thema’s via de Geonovum website worden ontsloten en alleen bij hoge uitzondering en een degelijke onderbouwing er een nieuwe separate website wordt ontwikkeld. 
 De publieke werk- en ontwikkelomgeving van de standaarden en de producten van de standaarden is de <a href='https://github.com/Geonovum' target='_blank'>Geonovum GitHub</a>. Geonovum gebruikt voor de standaarden en de producten van de standaarden die wij ontwikkelen en beheren zogenoemde publicatieservers. Deze publicatieservers gelden als bronlocatie voor de producten van onze standaarden en zijn vindbaar. De publicatieservers zijn: 
 <ul><li><a href='http://register.geostandaarden.nl/' target='_blank'>Technisch register</a>: Publiceren van technische bestanden, behorend bij standaarden ten behoeve van implementatieondersteuning. Het technisch register is de centrale vindplaats voor de informatiemodellen uit het NEN3610 stelsel, plus de technische standaarden die bij die informatiemodellen horen.</li>
-<li><a href='https://definities.geostandaarden.nl/' target='_blank'>Conceptenbibliotheek</a>: Publiceren van semantische begrippen uit informatiemodellen. In de conceptenbibliotheek zijn de definities van concepten die gebruikt worden in NEN3610 informatiemodellen opgenomen, waarmee wij harmonisatie en integratie bevorderen.</li>
-Ten behoeve van de conceptenbibliotheek hebben we een <a href='https://staging-definities.geostandaarden.nl' target='_blank'>testomgeving van de conceptenbibliotheek</a>. 
+<li><a href='https://definities.geostandaarden.nl/' target='_blank'>Conceptenbibliotheek</a>: Publiceren van semantische begrippen uit informatiemodellen. In de conceptenbibliotheek zijn de definities van concepten die gebruikt worden in NEN3610 informatiemodellen opgenomen, waarmee wij harmonisatie en integratie bevorderen. Ten behoeve van de conceptenbibliotheek hebben we een <a href='https://staging-definities.geostandaarden.nl' target='_blank'>testomgeving van de conceptenbibliotheek</a>.</li> 
 <li><a href='https://docs.geostandaarden.nl/' target='_blank'>Documenten register</a>: Publiceren van formele versies (consultatieversie, versie ter vaststelling, vastgestelde versie) van standaarden en eindversies van bijv. documentatie (type: document ‘GN-BASIS’). Door eenduidige, eenmalige bronlocatie van de (technische) documentatie van de standaarden die wij ontwikkelen en beheren in ReSpec (HTML) formaat, zijn de standaarden goed vindbaar op een persistente URI, voor zowel actieve als archiefversies. Met deze werkwijze voorkomen we het werken met oude kopieën (gebruik “standaarden bij de bron”). Daarnaast is de levensloop van standaarden volledig transparant.</li>
 </ul>
 
