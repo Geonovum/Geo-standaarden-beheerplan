@@ -1,5 +1,5 @@
 # Operationeel {#13C2BCAA}
-Initiatie, wensen en eisen, ontwikkeling, uitvoering, documentatie en hulpmiddelen zijn onderdeel van de operationele activiteiten voor het beheer van de geo-standaarden.
+<b>Initiatie, wensen en eisen, ontwikkeling, uitvoering, documentatie en hulpmiddelen zijn onderdeel van de operationele activiteiten voor het beheer van de geo-standaarden.</b>
 ## Initiatie {#2EDB09E7}
 Initiatie gaat over nieuwe ontwikkelingen in het geo-informatiedomein die beslag krijgen in de basisset geo-standaarden. Identificatie van nieuwe ideeën voor bijvoorbeeld een nieuwe specificatie of een Nederlands profiel van een internationale standaard en alle activiteiten die horen bij het succesvol optuigen daarvan behoren tot initiatie. De leden van het standaardenteam van Geonovum maar ook ons netwerk signaleren de nieuwe ontwikkelingen.  
 Als Geonovum nemen wij deel aan de werkgroepen van internationale standaarden om deze te vertalen naar het Nederlandse geo-informatiedomein. Ook zetten wij zelf testbeds en hackatons in om nieuwe ontwikkelingen te verkennen.

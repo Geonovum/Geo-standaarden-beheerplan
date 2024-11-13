@@ -1,5 +1,5 @@
 # Tactiek {#2F814D9C}
-Community, architectuur, rechtenbeleid, adoptie en erkenning, kwaliteitsbeleid en benchmarking zijn de tactische activiteiten voor het beheer van de geo-standaarden.
+<b>Community, architectuur, rechtenbeleid, adoptie en erkenning, kwaliteitsbeleid en benchmarking zijn de tactische activiteiten voor het beheer van de geo-standaarden.</b>
 ## Community {#08F9EBAB}
 Geonovum heeft een onafhankelijke positie als beheerder van de geo-standaarden. Het ontwikkelen en beheren van standaarden doen wij open en transparant. Betrokkenheid van de gemeenschap bij de verdere doorontwikkeling van de geo-standaarden is voor het gebruik en het draagvlak ervan van groot belang. De geo-standaarden gelden en worden gebruikt door publieke en private organisaties en bijvoorbeeld kennisinstellingen. Zij vormen samen de community. Alle publieke en private stakeholders, hebben inspraak over beheer en ontwikkeling van de betreffende geo-standaard (in vorm van leveranciers overleggen of klankbordgroepen) maar zijn niet beslissingsbevoegd. Aan deze inspraak zijn geen kosten verbonden.
 <br/>

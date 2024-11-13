@@ -1,5 +1,5 @@
 # Communicatie  {#3B609691}
-Publicatie, promotie en escalatie- en klachtenafhandeling zijn de communicatie activiteiten voor het beheer van de geo-standaarden.
+<b>Publicatie, promotie en escalatie- en klachtenafhandeling zijn de communicatie activiteiten voor het beheer van de geo-standaarden.</b>
 <br/>
 <br/>
 Geonovum is in brede zin zichtbaar en bereikbaar voor <i>alle</i> gebruikers van de standaarden en dat doen wij door middel van:
