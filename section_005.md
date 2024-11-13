@@ -52,7 +52,7 @@ Ten behoeve van de conceptenbibliotheek hebben we een <a href='https://staging-d
 </ul>
 <br/>
 <br/>
-## Documentatie {#2EE86838}
+## Documentatie {#2EE86838} 
 De volgende types documentatie worden door Geonovum gebruikt bij de ontwikkeling en het beheer van standaarden.  
 <br/>
 <br/>
