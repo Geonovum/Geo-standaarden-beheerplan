@@ -32,10 +32,10 @@ Dit beheerplan is ingericht op basis van de BOMOS activiteiten zoals in <a href=
 <figcaption>De structuur van het Beheer- en Ontwikkelmodel voor Open Standaarden</figcaption></figure>
 
 ## Leeswijzer {#28CE94DD}
-In dit beheerplan geven wij per BOMOS hoofdactiviteit aangeven welke activiteiten we uitvoeren voor het beheer en de doorontwikkeling van de geo-standaarden. Achtereenvolgens komen in dit beheerplan aan de orde: 
-<ul><li>[Hoofdstuk 2 - strategie](#070C7CCE)</li>
-<li>[Hoofdstuk 3 - tactiek](#2F814D9C)</li>
-<li>[Hoofdstuk 4 - operationeel](#13C2BCAA)</li>
-<li>[Hoofdstuk 5 - implementatieondersteuning](#241E4B3D)</li>
-<li>[Hoofdstuk 6 – communicatie](#3B609691)</li>
-</ul>
+In dit beheerplan geven wij per BOMOS hoofdactiviteit aangeven welke activiteiten we uitvoeren voor het beheer en de doorontwikkeling van de geo-standaarden. Achtereenvolgens komen in dit beheerplan aan de orde:<br/> 
+[Hoofdstuk 2 - strategie](#070C7CCE)
+[Hoofdstuk 3 - tactiek](#2F814D9C)
+[Hoofdstuk 4 - operationeel](#13C2BCAA)
+[Hoofdstuk 5 - implementatieondersteuning](#241E4B3D)
+[Hoofdstuk 6 – communicatie](#3B609691)
+
