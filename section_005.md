@@ -12,7 +12,7 @@ Op basis van het <a href='https://docs.geostandaarden.nl/gsw/gsw/' target='_blan
 <li>Nederlandse profielen voor Web Feature Services (WFS) en Web Map Services (WMS).</li>
 </ul>
 <br/>
-<br/>
+
 Het wijzigingsprotocol geo-standaarden is ook van toepassing op elke nieuwe standaard die door Geonovum als basis geo-standaard wordt geclassificeerd, mits Geonovum deze in beheer heeft. 
 Het wijzigingsprotocol geo-standaarden is niet van toepassing op de domeinstandaarden die Geonovum in beheer heeft; iedere domeinstandaard in beheer bij Geonovum heeft een eigen wijzigingsprotocol dat in lijn is met het wijzigingsprotocol geo-standaarden. 
 <br/>
@@ -22,7 +22,7 @@ Onderdeel van het wijzigingsproces is versiebeheer.
 <br/>
 <br/>
 <figure><img src='media/image4.png' alt='Proces vaststellen nieuwe standaard' style='width: 100%;'></img>
-<figcaption>Figuur 4 - Proces vaststellen nieuwe standaard</figcaption></figure>
+<figcaption>Proces vaststellen nieuwe standaard</figcaption></figure>
 
 ## Ontwikkeling {#1CE485E4}
 Een standaard kent verschillende levensfasen, zie figuur 5. Iedere standaard in beheer kent deze levensfasen. Vanaf de implementatie/ groeifase is de standaard in beheer en ontwikkelt zich deze door.  
@@ -30,7 +30,7 @@ Bij de doorontwikkeling van de standaard doorloopt het wijzigingsproces stappen 
 <br/>
 <br/>
 <figure><img src='media/image5.png' alt='Levensfases van een standaard volgens BOMOS' style='width: 100%;'></img>
-<figcaption>Figuur 5 - Levensfases van een standaard volgens <a href='https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/' target='_blank'>BOMOS</a></figcaption></figure>
+<figcaption>Levensfases van een standaard volgens <a href='https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/' target='_blank'>BOMOS</a></figcaption></figure>
 
 ## Uitvoering {#78583B11}
 Voor de uitvoering van het beheer en de doorontwikkeling van de geo-standaarden zet Geonovum adviseurs geo-standaarden, informatiemodelleurs en communicatieadviseurs in. Onder leiding van de projectleider van het basisprogramma worden de werkzaamheden in het standaardenteam jaarlijks verdeeld. De leidraad daarbij is: 
@@ -47,10 +47,11 @@ De <a href='https://www.geonovum.nl/' target='_blank'>Geonovum website</a> is de
 De publieke werk- en ontwikkelomgeving van de standaarden en de producten van de standaarden is de <a href='https://github.com/Geonovum' target='_blank'>Geonovum GitHub</a>. Geonovum gebruikt voor de standaarden en de producten van de standaarden die wij ontwikkelen en beheren zogenoemde publicatieservers. Deze publicatieservers gelden als bronlocatie voor de producten van onze standaarden en zijn vindbaar. De publicatieservers zijn: 
 <ul><li><a href='http://register.geostandaarden.nl/' target='_blank'>Technisch register</a>: Publiceren van technische bestanden, behorend bij standaarden ten behoeve van implementatieondersteuning. Het technisch register is de centrale vindplaats voor de informatiemodellen uit het NEN3610 stelsel, plus de technische standaarden die bij die informatiemodellen horen.</li>
 <li><a href='https://definities.geostandaarden.nl/' target='_blank'>Conceptenbibliotheek</a>: Publiceren van semantische begrippen uit informatiemodellen. In de conceptenbibliotheek zijn de definities van concepten die gebruikt worden in NEN3610 informatiemodellen opgenomen, waarmee wij harmonisatie en integratie bevorderen.</li>
-</ul>
 Ten behoeve van de conceptenbibliotheek hebben we een <a href='https://staging-definities.geostandaarden.nl' target='_blank'>testomgeving van de conceptenbibliotheek</a>. 
-<ul><li><a href='https://docs.geostandaarden.nl/' target='_blank'>Documenten register</a>: Publiceren van formele versies (consultatieversie, versie ter vaststelling, vastgestelde versie) van standaarden en eindversies van bijv. documentatie (type: document ‘GN-BASIS’). Door eenduidige, eenmalige bronlocatie van de (technische) documentatie van de standaarden die wij ontwikkelen en beheren in ReSpec (HTML) formaat, zijn de standaarden goed vindbaar op een persistente URI, voor zowel actieve als archiefversies. Met deze werkwijze voorkomen we het werken met oude kopieën (gebruik “standaarden bij de bron”). Daarnaast is de levensloop van standaarden volledig transparant. </li>
+<li><a href='https://docs.geostandaarden.nl/' target='_blank'>Documenten register</a>: Publiceren van formele versies (consultatieversie, versie ter vaststelling, vastgestelde versie) van standaarden en eindversies van bijv. documentatie (type: document ‘GN-BASIS’). Door eenduidige, eenmalige bronlocatie van de (technische) documentatie van de standaarden die wij ontwikkelen en beheren in ReSpec (HTML) formaat, zijn de standaarden goed vindbaar op een persistente URI, voor zowel actieve als archiefversies. Met deze werkwijze voorkomen we het werken met oude kopieën (gebruik “standaarden bij de bron”). Daarnaast is de levensloop van standaarden volledig transparant.</li>
 </ul>
+<br/>
+<br/>
 ## Documentatie {#2EE86838}
 De volgende types documentatie worden door Geonovum gebruikt bij de ontwikkeling en het beheer van standaarden.  
 <br/>

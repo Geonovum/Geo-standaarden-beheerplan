@@ -5,7 +5,7 @@ Geonovum is een overheidsstichting met een onafhankelijk bestuur, een Raad van T
 <br/>
 <br/>
 <figure><img src='media/image2.png' alt='Organogram Geonovum' style='width: 100%;'></img>
-<figcaption>Figuur 2 - Organogram Geonovum</figcaption></figure>
+<figcaption>Organogram Geonovum</figcaption></figure>
 
 <br/>
 <br/>

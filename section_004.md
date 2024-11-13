@@ -7,33 +7,38 @@ Geonovum heeft een onafhankelijke positie als beheerder van de geo-standaarden. 
 Als er behoefte is aan (verdere) ontwikkeling van een standaard, stellen we hiervoor een werkgroep in. Werkgroepen staan voor iedereen open en er volgt altijd een openbare consultatie voor een nieuwe standaard of nieuwe versie van een standaard. Tijdens het maken van een standaard betrekken we relevante softwareleveranciers in het proces om het risico op een implementatiekloof zo klein mogelijk te houden.
 <br/>
 <br/>
-Geonovum informeert en betrekt de geo-community via haar website en via haar nieuwsbrief ‘De Geostandaard’ (automatisch op de hoogte blijven? Meld je aan via de <a href='https://www.geonovum.nl' target='_blank'>Geonovum website</a>). Vanuit de community worden (al dan niet ad hoc) werkgroepen gevormd voor het klankborden over ontvangen verbeterverzoeken en de ontwikkeling van oplossingen op het moment dat dit nodig is. 
+Geonovum informeert en betrekt de geo-community via haar website en via haar nieuwsbrief ‘De Geostandaard’. Automatisch op de hoogte blijven kan door aan te melden via de <a href='https://www.geonovum.nl' target='_blank'>Geonovum website</a>. Vanuit de community worden (al dan niet ad hoc) werkgroepen gevormd voor het klankborden over ontvangen verbeterverzoeken en de ontwikkeling van oplossingen op het moment dat dit nodig is. 
 Geonovum werkt daarnaast samen met andere standaardisatieorganisaties zowel in als buiten het geo-informatie domein, bijvoorbeeld Informatiehuis Water, BIJ12, Logius.  
 ## Architectuur {#29CB745A}
 De overheid beter laten presteren met geo-informatie. Dat is waar Geonovum dagelijks aan werkt. We doen dat door de toegankelijkheid van geo-informatie te verbeteren en door de uitwisseling van geo-informatie onderling en met andere soorten gegevens mogelijk te maken. Dit doen wij zowel in de context van de Nederlandse geo-informatie infrastructuur (NGII) als in de context van specifieke toepassingsdomeinen met standaarden. 
 ### Internationale standaarden {#37F3D7D2}
 Voor de nationale geo-standaarden geldt dat deze ontwikkeld zijn op basis van internationale standaarden, aangevuld met de voor Nederland geldende specifieke eisen. Op het moment dat een nationale standaard (een toepassingsprofiel genaamd) is ontwikkeld, geldt dat een nationale standaard leidend is. Is er geen nationale standaard, dan geldt de Europese standaard en als er geen Europese standaard is, geldt een internationale, wereldwijde standaard.
+<br/>
+<br/>
 Internationaal zijn voor Nederland de geo-standaarden afkomstig van standaardisatie organisaties <a href='https://www.iso.org/committee/54904.html' target='_blank'>ISO/TC 211 Geographic information/Geomatics</a>, het <a href='https://www.ogc.org/' target='_blank'>Open Geospatial Consortium</a> (OGC) en het <a href='https://www.w3.org/' target='_blank'>World Wide Web Consortium</a> (W3C) van groot belang. ISO/TC211 en het OGC maken technische geo-standaarden, die Nederland semantisch en technisch invult. Deze geo-standaarden organisaties hebben liaisons met de algemene ICT en Internet standaardisatie organisaties zoals het W3C. Geonovum participeert namens Nederland actief in deze drie internationale standaardisatie organisaties.
 Ook internationale en nationale regelgeving heeft impact op de keuze voor standaarden. Vanuit Europa zijn onder meer de standaarden relevant die vallen onder de Europese <a href='https://inspire.ec.europa.eu/' target='_blank'>INSPIRE</a> kaderrichtlijn. Deze richtlijn beschrijft technische afspraken die uitwisseling van geo-informatie mogelijk maakt over 34 thema’s met betrekking tot de fysieke leefomgeving en het milieu. De INSPIRE richtlijn geldt specifiek voor publieke organisaties (de overheid) van de Europese lidstaten. De INSPIRE standaarden zijn gebaseerd op internationale geo-standaarden voor het vinden, bekijken en downloaden van data. De INSPIRE data specificaties voor de thema’s hebben een duidelijke relatie met de informatiemodellen voor verschillende domeinen en sectoren in Nederland.
-In de afgelopen paar jaren heeft de Europese Commissie (EC) tevens meerdere wetsvoorstellen m.b.t. digitalisering en data gedaan die de komende jaren vorm krijgen. Gezamenlijk vormen ze de geopolitieke positionering t.a.v. digitalisering en data van de Europese Unie. Centraal in die propositie is het benutten van de maatschappelijke waarde van digitalisering en data, en gelijktijdig het versterken en beschermen van de individuele rechten van burgers. De voorstellen zijn in 2020 en 2021 gedaan, en zijn vastgesteld dan wel momenteel in onderhandeling. De bekend gemaakte feitelijke informatie over de inhoud van de voorstellen, de activiteiten van de EC, en de bekende tijdslijnen t.a.v. implementatie worden gedeeld in de <a href='https://docs.geostandaarden.nl/eu/handreiking-EU-informatie' target='_blank'>Handreiking EU Informatie m.b.t. digitale en data-strategie</a>.
+<br/>
+<br/>
+In de afgelopen paar jaren heeft de Europese Commissie (EC) tevens meerdere wetsvoorstellen m.b.t. digitalisering en data gedaan die de komende jaren vorm krijgen. Gezamenlijk vormen ze de geopolitieke positionering ten aanzien van digitalisering en data van de Europese Unie. Centraal in die propositie is het benutten van de maatschappelijke waarde van digitalisering en data, en gelijktijdig het versterken en beschermen van de individuele rechten van burgers. De voorstellen zijn in 2020 en 2021 gedaan, en zijn vastgesteld dan wel momenteel in onderhandeling. De bekend gemaakte feitelijke informatie over de inhoud van de voorstellen, de activiteiten van de EC, en de bekende tijdslijnen t.a.v. implementatie worden gedeeld in de <a href='https://docs.geostandaarden.nl/eu/handreiking-EU-informatie' target='_blank'>Handreiking EU Informatie m.b.t. digitale en data-strategie</a>.
+<br/>
+<br/>
 Tot slot is ook nationale wet- en regelgeving van invloed op het toepassen de geo-standaarden, zoals de Nederlandse basisregistraties en de Omgevingswet. Deze Nederlandse profielen van standaarden zijn gebaseerd op of opgelijnd met de internationale en Europese profielen. Het deel van de Nederlandse geo-standaarden profielen dat zorgt voor het functioneren van de nationale geo-informatie infrastructuur heeft een aparte positie op de <a href='https://www.forumstandaardisatie.nl/open-standaarden' target='_blank'>'pas toe of leg uit'</a> lijst van verplichte open standaarden van het Forum Standaardisatie van de Nederlandse digitale overheid. Deze geo-standaarden zijn van primair belang in het aansluiten van geo-informatie op de digitale overheid.
- 
 <br/>
 <br/>
 <figure><img src='media/image3.png' alt='Het nationale NEN3610 Basismodel voor geo-informatie' style='width: 66.89827930749485%;'></img>
-<figcaption>Figuur 3 - Het nationale NEN3610 Basismodel voor geo-informatie</figcaption></figure>
+<figcaption>Het nationale NEN3610 Basismodel voor geo-informatie</figcaption></figure>
 
 ### Raamwerk van geo-standaarden  {#424234D4}
 Bij de opzet en ontwikkeling van een geo-informatie infrastructuur is het de uitdaging om steeds de juiste set standaarden te kiezen. Het <a href='https://docs.geostandaarden.nl/rwgs/rw/' target='_blank'>Raamwerk van Geo-Standaarden</a> helpt daarbij. Het benoemt de internationale en nationale standaarden die voor Nederland binnen het geo-domein van toepassing zijn voor aansluiting met andere domeinen. Het raamwerk houdt rekening met aansluiting op de Europese geo-informatie infrastructuur en borgt integratie van het geo-informatie domein in de Nederlandse digitale overheid.
 Het Raamwerk van geo-standaarden is geschreven voor iedereen die geodatasets vastlegt, uitwisselt en beheert en voor iedereen die informatiebeleid maakt. Het doel van het Raamwerk van geo-standaarden is om uit de grote verscheidenheid aan standaarden de juiste set te kiezen: die standaarden die nodig zijn om geodata vindbaar, toegankelijk, uitwisselbaar en herbruikbaar te maken. Wij baseren de keuzes voor standaarden in het Raamwerk op de volgende uitgangspunten: internationale aansluiting, volwassenheid en openheid van deze geo-standaarden en brede adoptie en gebruik. Het toepassen van de in dit raamwerk opgenomen geo-standaarden, draagt bij aan een solide geo-informatie infrastructuur, in lijn met internationale ontwikkelingen en aansluitend op de nationale digitale overheid.
 ### Metamodel voor informatiemodellering  {#22B2857E}
-Het Metamodel voor Informatiemodellering (MIM) heeft als doel alle informatiemodellen in Nederland nog beter op elkaar aan te laten sluiten. Het beschrijft de 4 lagen, niveaus binnen een Informatiemodel. 
-Niveau 1: Model van Begrippen
-Niveau 2: Conceptueel Informatiemodel
-Niveau 3: Logisch model of gegevensmodel
-Niveau 4: Fysiek of Technisch model
-<br/>
-<br/>
+Het Metamodel voor Informatiemodellering (MIM) heeft als doel alle informatiemodellen in Nederland nog beter op elkaar aan te laten sluiten. Het beschrijft de 4 lagen, niveaus binnen een Informatiemodel: <br/> 
+<ul><li>Niveau 1: Model van Begrippen</li>
+<li>Niveau 2: Conceptueel Informatiemodel</li>
+<li>Niveau 3: Logisch model of gegevensmodel</li>
+<li>Niveau 4: Fysiek of Technisch model</li>
+</ul><br/>
+
 Een typisch Geonovum Informatiemodel bevat in ieder geval niveau 2 en 3 en bij voorkeur ook niveau 1. Niveau 4 wordt gemaakt door de ontwikkelaar/ bouwer van het systeem waarin ons informatiemodel wordt gebruikt.
 ### Nederlandse Overheid Referentie Architectuur - NORA {#2E088CA6}
 De Nederlandse Overheid Referentie Architectuur (NORA) is het interoperabiliteitsraamwerk voor de Nederlandse overheid en vertaalt daartoe wetgeving, beleid en standaarden naar architectuurprincipes, beschrijvingen en modellen. Het is een beschrijving van uitgangspunten voor het inrichten van de informatiehuishouding van de Nederlandse overheid. NORA is relevant voor de uitvoering van alle publieke taken door publieke en private organisaties. De geo-standaarden moeten ook passen binnen de <a href='https://www.noraonline.nl/' target='_blank'>Nederlandse Overheids Referentie Architectuur</a> (NORA), de architectuur van alle overheidsorganisaties in Nederland. 
@@ -58,5 +63,5 @@ De verbindende kracht van standaardisatie in vindbare, toegankelijke, uitwisselb
 <li><b>Reusable (herbruikbaar)</b> Het uiteindelijke doel van FAIR is het hergebruik van data te optimaliseren. Om dit te bereiken moeten metadata en data goed worden beschreven, zodat ze in verschillende situaties kunnen worden gerepliceerd en/of gecombineerd.</li>
 </ul>
 <br/>
-<br/>
+
 Op basis van de kwaliteitsinstrumenten van BOMOS werken verder aan de kwaliteit van de standaarden en het beleid dat toeziet op de kwaliteit van implementaties van de geo-standaard. 

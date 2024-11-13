@@ -18,13 +18,13 @@ var documentConfig =
   previousPublishDate: "2021-08-18",
   previousPublishVersion: "1.3.1",
   prevVersion: [
-    "https://docs.geostandaarden.nl/geen/def-bd-BeheerplanGeoStandaarden-20210818/"
+    "https://docs.geostandaarden.nl/gbd/def-bd-gsb-20210818/"
   ],
   previousMaturity: "def",
   github: "https://github.com/Geonovum/Geo-standaarden-beheerplan/",
   issueBase: "https://github.com/Geonovum/Geo-standaarden-beheerplan/",
-  edDraftURI: "https://geonovum.github.io/Geo-standaarden-beheerplan//",
-  canonicalURI: "https://geonovum.github.io/Geo-standaarden-beheerplan//",
+  edDraftURI: "https://geonovum.github.io/Geo-standaarden-beheerplan/",
+  canonicalURI: "https://geonovum.github.io/Geo-standaarden-beheerplan/",
   authors: [
     {
       name: "Monique van Scherpenzeel",

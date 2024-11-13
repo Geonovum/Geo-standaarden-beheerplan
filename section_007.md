@@ -9,6 +9,8 @@ Geonovum is in brede zin zichtbaar en bereikbaar voor <i>alle</i> gebruikers van
 <li><a href='https://www.geonovum.nl/over-geonovum/contact' target='_blank'>Helpdesk</a>;</li>
 <li><a href='https://github.com/Geonovum' target='_blank'>GitHub</a>.</li>
 </ul>
+<br/>
+<br/>
 ## Publicatie {#36902865}
 Onder publicatie verstaan we het vrij toegankelijk op internet publiceren van de relevante documentatie van en over de geo-standaarden. De documentatie kan voorkomen in presentatieformaten (zoals HTML) en als in technische formaten (zoals XML en JSON) ten behoeve van implementatie van de standaard. Het standaardenteam van Geonovum draagt zorg voor de ontsluiting van deze documentatie via de verschillende kanalen voor de gebruikers van de geo-standaarden. 
 De <a href='https://www.geonovum.nl/' target='_blank'>Geonovum website</a> is de centrale toegang om in contact te komen met Geonovum en informatie in te winnen over de geo-standaarden. De publieke ontwikkelomgeving van de standaarden en de producten van de standaarden is de <a href='https://github.com/Geonovum' target='_blank'>Geonovum GitHub</a>. Geonovum gebruikt voor de standaarden en de producten van de standaarden die wij ontwikkelen en beheren zogenoemde publicatieservers. Deze publicatieservers gelden als bronlocatie voor de producten van onze standaarden en zijn vindbaar. De publicatieservers zijn: 
@@ -16,16 +18,21 @@ De <a href='https://www.geonovum.nl/' target='_blank'>Geonovum website</a> is de
 <br/>
 <ul><li><a href='http://register.geostandaarden.nl/' target='_blank'>Technisch register</a>: Publiceren van technische bestanden, behorend bij standaarden ten behoeve van implementatieondersteuning. Het technisch register is de centrale vindplaats voor de informatiemodellen uit het NEN3610 stelsel, plus de technische standaarden die bij die informatiemodellen horen.</li>
 <li><a href='https://definities.geostandaarden.nl/' target='_blank'>Conceptenbibliotheek</a>: Publiceren van semantische begrippen uit informatiemodellen. In de conceptenbibliotheek zijn de definities van concepten die gebruikt worden in NEN3610 informatiemodellen opgenomen, waarmee wij harmonisatie en integratie bevorderen.</li>
-</ul>
 Ten behoeve van de conceptenbibliotheek hebben we een <a href='https://staging-definities.geostandaarden.nl' target='_blank'>testomgeving van de conceptenbibliotheek</a>. 
 <ul><li><a href='https://docs.geostandaarden.nl/' target='_blank'>Documenten register</a>: Publiceren van formele versies (consultatieversie, versie ter vaststelling, vastgestelde versie) van standaarden en eindversies van bijv. documentatie (type: document ‘GN-BASIS’). Door eenduidige, eenmalige bronlocatie van de (technische) documentatie van de standaarden die wij ontwikkelen en beheren in ReSpec (HTML) formaat, zijn de standaarden goed vindbaar op een persistente URI, voor zowel actieve als archiefversies. Met deze werkwijze voorkomen we het werken met oude kopieën (gebruik “standaarden bij de bron”). Daarnaast is de levensloop van standaarden volledig transparant. </li>
 </ul>
+<br/>
+<br/>
 ## Promotie {#5E6289AD}
 Is een (nieuwe versie van de) geo-standaard eenmaal vastgesteld, dan kan hij in gebruik worden genomen. De belangrijkste communicatiefunctie in deze fase is promotie van de standaard. Ter promotie van de standaarden zetten wij verschillende middelen in. De belangrijkste zijn (online) werksessies, presentatie en publicaties. Rond nieuwe standaarden en rond grote wijzigingen brengen wij persberichten uit en schrijven wij artikelen voor de vakbladen. Andere publicatiemiddelen die we inzetten zijn: factsheets (wat is de standaard, wat kan je ermee, hoe voer ik hem in), interviews met gebruikers in bijvoorbeeld het jaarverslag van Geonovum, externe publicaties, etc.
+<br/>
+<br/>
 ## Escalatie- en klachtenafhandeling {#7B616D3A}
 Escalatie- en klachtenafhandeling betreft het garanderen van het serieus nemen van klachten en deze volgens een zorgvuldige procedure te behandelen. Klachten kunnen ook beschouwd worden als verbetersuggesties.
 We doorlopen een escalatieprocedure als er een wijziging van de standaard noodzakelijk is die niet in het reguliere wijzigingsproces op basis van het geo-standaarden wijzigingsprotocol (link) doorgevoerd <i>kan</i> worden, omdat dit te lang duurt. Een uitputtende lijst met situaties en criteria wanneer dit van toepassing is, valt op voorhand niet te geven. Maar voor de beeldvorming: het gaat om situaties waarbij het niet doorvoeren van een bepaalde noodzakelijke wijziging leidt tot onaanvaardbare risico's voor de uitvoeringspraktijk of het onmogelijk uitvoeren (vanwege bijvoorbeeld tegenstrijdige wetten) van werkzaamheden.
 De escalatieprocedure wordt niet gebruikt om reguliere wijzigingen sneller door te kunnen voeren.
+<br/>
+<br/>
 ### Sturende principes bij escalatie {#22EFA0EF}
 Er wordt geen vast proces gegeven om de escalatieprocedure te doorlopen, omdat verschillende situaties wellicht tot een verschillende wijze van handelen moeten leiden. In plaats daarvan zijn onderstaande sturende principes leidend om verantwoordelijkheden te duiden.
 <br/>
@@ -45,6 +52,8 @@ De coördinatie tijdens de escalatieprocedure wordt uitgevoerd door de voorzitte
 <ul><li><b>Communicatie met het werkveld</b></li>
 </ul>
 De communicatie met het werkveld wordt uitgevoerd door Geonovum. Als beheerder van de geo-standaarden wordt verwacht dat Geonovum het meest directe contacten heeft met het werkveld.
+<br/>
+<br/>
 ### Klachtenafhandeling {#468AE07F}
 Het garanderen van het serieus nemen van klachten kan alleen, door deze volgens een zorgvuldige procedure te behandelen. Klachten kunnen ook beschouwd worden als verbetersuggestie. We onderscheiden daarom twee verschillende type klachten met betrekking tot de standaarden:
 <ul><li>Klachten over de toepassingsmogelijkheid van de standaard;</li>
