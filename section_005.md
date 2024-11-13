@@ -50,8 +50,7 @@ De publieke werk- en ontwikkelomgeving van de standaarden en de producten van de
 Ten behoeve van de conceptenbibliotheek hebben we een <a href='https://staging-definities.geostandaarden.nl' target='_blank'>testomgeving van de conceptenbibliotheek</a>. 
 <li><a href='https://docs.geostandaarden.nl/' target='_blank'>Documenten register</a>: Publiceren van formele versies (consultatieversie, versie ter vaststelling, vastgestelde versie) van standaarden en eindversies van bijv. documentatie (type: document ‘GN-BASIS’). Door eenduidige, eenmalige bronlocatie van de (technische) documentatie van de standaarden die wij ontwikkelen en beheren in ReSpec (HTML) formaat, zijn de standaarden goed vindbaar op een persistente URI, voor zowel actieve als archiefversies. Met deze werkwijze voorkomen we het werken met oude kopieën (gebruik “standaarden bij de bron”). Daarnaast is de levensloop van standaarden volledig transparant.</li>
 </ul>
-<br/>
-<br/>
+
 ## Documentatie {#2EE86838}
 De volgende types documentatie worden door Geonovum gebruikt bij de ontwikkeling en het beheer van standaarden.  
 <br/>
