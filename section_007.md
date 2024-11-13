@@ -52,9 +52,8 @@ De communicatie met het werkveld wordt uitgevoerd door Geonovum. Als beheerder v
 Het garanderen van het serieus nemen van klachten kan alleen, door deze volgens een zorgvuldige procedure te behandelen. Klachten kunnen ook beschouwd worden als verbetersuggestie. We onderscheiden daarom twee verschillende type klachten met betrekking tot de standaarden:
 <ul><li>Klachten over de toepassingsmogelijkheid van de standaard;</li>
 <li>Klachten over het beheer van de standaard.</li>
-</ul>
-<br/>
-<br/>
+</ul><br/>
+
 In het eerste geval is het feitelijk geen klacht maar een wens of eis tot het aanpassen van de betreffende geo-standaard. De verantwoordelijke bij Geonovum voor het basisprogramma neemt de klacht in behandeling en de klacht wordt vastgelegd als wijzigingsverzoek en niet als klacht. In dit geval doet Geonovum haar werk goed. 
 In het tweede geval is er sprake van ontevredenheid over de uitvoering van het beheerproces van de geo-standaard en betreft het niet de inhoud, de standaard zelf. De indiener is van mening dat Geonovum, het standaardenteam, dan wel een medewerker van Geonovum het werk niet naar behoren uitvoert. In dat geval wordt de klacht doorgezet naar de programmaraad. 
 <br/>

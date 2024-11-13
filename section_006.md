@@ -19,7 +19,6 @@ Na het opleveren van de nieuwe standaard inclusief de verschillende producten, r
 Geonovum beheert ten behoeve van de Nederlandse profielen voor datasets (ISO-19115) en services (ISO-19119) deze twee <a href='https://www.geonovum.nl/over-geonovum/actueel/update-validator-nederlandse-metadataprofielen' target='_blank'>validators</a>:
 <ul><li><a href='http://validatie.geostandaarden.nl/metadata/dataset' target='_blank'>Validator geodatasets</a> (Nederlandse medataprofiel op ISO-19115);</li>
 <li><a href='http://validatie.geostandaarden.nl/metadata/service' target='_blank'>Valdator geodataservices</a> (Nederlandse medataprofiel op ISO-19119).</li>
-</ul>
-<br/>
-<br/>
+</ul><br/>
+
 Certificatie van een organisatie of product is door Geonovum zelden uitgevoerd. Voor NEN3610 hebben we een conformiteitstoets om onderliggende domeinmodellen te toetsen op NEN3610. Bij een nieuwe versie van NEN3610 ontwikkelen we ook de conformiteitstoets door. Er is dan een testprotocol voor een conformiteitstoets beschikbaar gesteld, waarmee (handmatig) kan worden gecontroleerd of een implementatie aan de norm voldoet. In hoofdstuk 6 van <a href='https://www.geonovum.nl/geo-standaarden/nen-3610-basismodel-voor-informatiemodellen' target='_blank'>NEN3610:2022</a> is informatie rondom conformiteit opgenomen. 
