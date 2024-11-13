@@ -8,7 +8,6 @@ De basisset geo-standaarden kan worden onderverdeeld in:
 <li>standaarden voor <i>services</i>, waaronder die voor het serveren van vector-, raster- en sensordata. Met deze standaarden wordt beschreven hoe de data geserveerd wordt. </li>
 </ul>
 <br/>
-<br/>
 Concreet bestaat de basisset geo-standaarden uit:
 <ul><li>het basismodel geo-informatie <a href='http://www.geonovum.nl/onderwerpen/basismodel-geo-informatie-nen3610' target='_blank'>NEN3610</a>;</li>
 <li>Geography Markup Language <a href='http://www.geonovum.nl/onderwerpen/geography-markup-language-gml' target='_blank'>GML</a>;</li>
@@ -33,9 +32,9 @@ Dit beheerplan is ingericht op basis van de BOMOS activiteiten zoals in <a href=
 
 ## Leeswijzer {#28CE94DD}
 In dit beheerplan geven wij per BOMOS hoofdactiviteit aangeven welke activiteiten we uitvoeren voor het beheer en de doorontwikkeling van de geo-standaarden. Achtereenvolgens komen in dit beheerplan aan de orde: 
-<ul><li>Hoofdstuk 2 - strategie, </li>
-<li>Hoofdstuk 3 - tactiek, </li>
-<li>Hoofdstuk 4 - operationeel, </li>
-<li>Hoofdstuk 5 - implementatieondersteuning, </li>
-<li>Hoofdstuk 6 – communicatie. </li>
+<ul><li>[Hoofdstuk 2 - strategie](#070C7CCE), </li>
+<li>[Hoofdstuk 3 - tactiek](#2F814D9C), </li>
+<li>[Hoofdstuk 4 - operationeel](#13C2BCAA), </li>
+<li>[Hoofdstuk 5 - implementatieondersteuning](#241E4B3D), </li>
+<li>[Hoofdstuk 6 – communicatie](#3B609691). </li>
 </ul>
