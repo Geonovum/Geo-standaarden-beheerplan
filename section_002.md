@@ -20,6 +20,7 @@ De basisset geo-standaarden staat op de <a href='https://www.forumstandaardisati
 <br/>
 Onder standaarden worden hier niet verstaan praktijkrichtlijnen, werkafspraken, handreikingen of 
 andersoortige publicaties over de geo-standaarden. Deze type publicaties gaan in op de toepassing van de standaarden in de praktijk, de standaarden zelf beschrijven de vereisten.
+
 ## Beheer en doorontwikkeling van de geo-standaarden  {#5D15D280}
 De maatschappij beter laten presteren met geo-informatie. Dat is waar wij bij Geonovum sinds 2007 dagelijks aan werken. Onze ambitie is een geodata infrastructuur waarop je letterlijk en figuurlijk kunt bouwen. Of je nu geo-specialist bent, beleidsregels maakt, een vergunning aanvraagt of apps bouwt. Wij doen dit door ontwikkelingen rond geo-informatie te verkennen, door partijen te verbinden en door gemaakte afspraken in standaarden te verankeren. Dit doen wij in opdracht van en voor de overheid.
 Bij de ontwikkeling van standaarden volgen wij de FAIR principes: geodata moeten Findable (vindbaar) zijn, Accessible (toegankelijk), Interoperable (interoperabel) en Reusable (herbruikbaar).
