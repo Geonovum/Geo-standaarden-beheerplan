@@ -25,8 +25,8 @@ Onderdeel van het wijzigingsproces is versiebeheer.
 <figcaption>Proces vaststellen nieuwe standaard</figcaption></figure>
 
 ## Ontwikkeling {#1CE485E4}
-Een standaard kent verschillende levensfasen, zie figuur 5. Iedere standaard in beheer kent deze levensfasen. Vanaf de implementatie/ groeifase is de standaard in beheer en ontwikkelt zich deze door.  
-Bij de doorontwikkeling van de standaard doorloopt het wijzigingsproces stappen Inhoud, Toetsing, Besluitvorming en Implementatie. Het wijzigingsproces alsook het releasebeleid en versiebeheer zijn toegelicht zijn toegelicht in het <a href='https://docs.geostandaarden.nl/gsw/gsw/' target='_blank'>wijzigingsprotocol geo-standaarden</a>. De hulpmiddelen die het IMEV beheerteam inzet, zijn benoemd in de volgende paragraaf <a href='#78583B11'>uitvoering</a>. 
+Een standaard kent verschillende levensfasen, zie figuur 5. Iedere standaard in beheer kent deze levensfasen. Vanaf de implementatie/ groeifase is de standaard in beheer en ontwikkelt deze zich door.  
+Bij de doorontwikkeling van de standaard doorloopt het wijzigingsproces stappen Inhoud, Toetsing, Besluitvorming en Implementatie. Het wijzigingsproces alsook het releasebeleid en versiebeheer zijn toegelicht in het <a href='https://docs.geostandaarden.nl/gsw/gsw/' target='_blank'>wijzigingsprotocol geo-standaarden</a>. De hulpmiddelen die het beheerteam inzet, zijn benoemd in de volgende paragraaf <a href='#78583B11'>uitvoering</a>. 
 <br/>
 <br/>
 <figure><img src='media/image5.png' alt='Levensfases van een standaard volgens BOMOS' style='width: 100%;'></img>
@@ -43,7 +43,7 @@ Voor de uitvoering van het beheer en de doorontwikkeling van de geo-standaarden 
 <br/>
 Wij gebruiken hierbij de volgende hulpmiddelen en tooling. 
 De <a href='https://www.geonovum.nl/' target='_blank'>Geonovum website</a> is de centrale toegang om in contact te komen met Geonovum en informatie in te winnen over ons werk: Geonovum verbindt, verkent en verankert. Dit betekent dat nieuwe opdrachten, nieuwe werkzaamheden, nieuwe thema’s via de Geonovum website worden ontsloten en alleen bij hoge uitzondering en een degelijke onderbouwing er een nieuwe separate website wordt ontwikkeld. 
-De publieke werk- en ontwikkelomgeving van de standaarden en de producten van de standaarden is de <a href='https://github.com/Geonovum' target='_blank'>Geonovum GitHub</a>. Geonovum gebruikt voor de standaarden en de producten van de standaarden die wij ontwikkelen en beheren zogenoemde publicatieservers. Deze publicatieservers gelden als bronlocatie voor de producten van onze standaarden en zijn vindbaar. De publicatieservers zijn: 
+De publieke werk- en ontwikkelomgeving van de standaarden en de producten van de standaarden is de <a href='https://github.com/Geonovum' target='_blank'>Geonovum GitHub organisatie</a>. Geonovum gebruikt voor de standaarden en de producten van de standaarden die wij ontwikkelen en beheren zogenoemde publicatieservers. Deze publicatieservers gelden als bronlocatie voor de producten van onze standaarden en zijn vindbaar. De publicatieservers zijn: 
 
 <ul><li><a href='http://register.geostandaarden.nl/' target='_blank'>Technisch register</a>: Publiceren van technische bestanden, behorend bij standaarden ten behoeve van implementatieondersteuning. Het technisch register is de centrale vindplaats voor de informatiemodellen uit het NEN3610 stelsel, plus de technische standaarden die bij die informatiemodellen horen.</li>
 <li><a href='https://definities.geostandaarden.nl/' target='_blank'>Conceptenbibliotheek</a>: Publiceren van semantische begrippen uit informatiemodellen. In de conceptenbibliotheek zijn de definities van concepten die gebruikt worden in NEN3610 informatiemodellen opgenomen, waarmee wij harmonisatie en integratie bevorderen. Ten behoeve van de conceptenbibliotheek hebben we een <a href='https://staging-definities.geostandaarden.nl' target='_blank'>testomgeving van de conceptenbibliotheek.</a></li> 
