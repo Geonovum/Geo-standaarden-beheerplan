@@ -4,13 +4,13 @@ var documentConfig =
   subtitle: "Beheer van de basisset geo-standaarden",
   shortName: "gsb",
   pubDomain: "gbd",
-  specStatus: "wv",
+  specStatus: "cv",
   specType: "bd",
   license: "cc-by",
   latestVersion: [
     "https://docs.geostandaarden.nl/gbd/gsb/"
   ],
-  publishDate: "2024-11-12",
+  publishDate: "2024-12-19",
   publishVersion: "2.0.0",
   thisVersion: [
     "https://docs.geostandaarden.nl/gbd/gsb/"
