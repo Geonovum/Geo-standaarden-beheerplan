@@ -9,11 +9,12 @@ De basisset geo-standaarden kan worden onderverdeeld in:
 </ul>
 <br/>
 Concreet bestaat de basisset geo-standaarden uit:
-<ul><li>het basismodel geo-informatie <a href='http://www.geonovum.nl/onderwerpen/basismodel-geo-informatie-nen3610' target='_blank'>NEN3610</a>;</li>
-<li>Geography Markup Language <a href='http://www.geonovum.nl/onderwerpen/geography-markup-language-gml' target='_blank'>GML</a>;</li>
-<li><a href='http://www.geopackage.org/spec/' target='_blank'>GeoPackage</a>;</li>
-<li><a href='https://www.geonovum.nl/geo-standaarden/metadata' target='_blank'>metadata-profielen voor geografie en webservices</a> ;</li>
-<li>Webservice-profielen voor <a href='https://www.geonovum.nl/geo-standaarden/services' target='_blank'>Web Feature Service en Web Map Service</a></li>
+<ul><li><a href='http://www.geonovum.nl/onderwerpen/basismodel-geo-informatie-nen3610' target='_blank'>Basismodel geo-informatie NEN3610</a>;</li>
+<li><a href='http://www.geonovum.nl/onderwerpen/geography-markup-language-gml' target='_blank'>Geography Markup Language (GML)</a>;</li>
+<li><a href='https://www.geonovum.nl/geo-standaarden/geopackage' target='_blank'>GeoPackage</a>;</li>
+<li><a href='https://www.geonovum.nl/geo-standaarden/metadata' target='_blank'>Metadata-profielen voor geografie en webservices</a> ;</li>
+<li><a href='https://www.geonovum.nl/geo-standaarden/ogc-apis' target='_blank'>OGC API Features</a></li>
+<li><a href='https://www.geonovum.nl/geo-standaarden/ogc-apis' target='_blank'>OGC API Tiles</a></li>
 </ul>
 De basisset geo-standaarden staat op de <a href='https://www.forumstandaardisatie.nl/open-standaarden' target='_blank'>Pas-toe-of-leg-uit-lijst van het Forum Standaardisatie</a>.
 <br/>
@@ -27,7 +28,7 @@ Bij de ontwikkeling van standaarden volgen wij de FAIR principes: geodata moeten
 <br/>
 <br/>
 Het beheer van onze standaarden geven wij gestalte en voeren wij uit in de context van de standaarden, architectuur en voorzieningen en de gebruikers in de keten. Leidraad in bij het (door)ontwikkelen en beheren van standaarden is het Beheer en Ontwikkel Model Open Standaarden: <a href='https://www.logius.nl/domeinen/infrastructuur/bomos' target='_blank'>BOMOS</a>. Geonovum gebruikt BOMOS voor alle standaarden die het in beheer heeft, om te garanderen dat deze open zijn volgens de definitie die BOMOS hieraan geeft. De toepassing van BOMOS zorgt er bovendien voor dat standaarden die Geonovum beheert en ontwikkelt in aanmerking komen voor plaatsing op de lijst verplichte standaarden en op de lijst met aanbevolen standaarden van het Forum Standaardisatie. Geonovum heeft voor het beheer van de geo-standaarden in 2014 van het Forum Standaardisatie en Nationaal Beraad Digitale Overheid het predicaat ‘uitstekend beheerproces’ ontvangen. 
-Dit beheerplan is ingericht op basis van de BOMOS activiteiten zoals in <a href='#d3e306'>Figuur 1</a> weergegeven. 
+Dit beheerplan is ingericht op basis van de BOMOS activiteiten zoals in <a href='#d3e306'>figuur 1</a> weergegeven. 
 <figure><img src='media/image1.png' alt='In de figuur is het Beheer- en Ontwikkelmodel weergegeven: een gelaagde structuur van onderwerpen die nodig zijn voor het ontwikkelen en beheren van een open standaard.' style='width: 89.67322060092565%;'></img>
 <figcaption>De structuur van het Beheer- en Ontwikkelmodel voor Open Standaarden</figcaption></figure>
 
