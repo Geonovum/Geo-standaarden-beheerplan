@@ -8,8 +8,10 @@ Standaarden in beheer en gebruik ontwikkelen zich door. Belanghebbenden, gebruik
 Op basis van het <a href='https://docs.geostandaarden.nl/gsw/gsw/' target='_blank'>wijzigingsprotocol geo-standaarden</a> nemen wij de wijzigingsverzoeken in behandeling en voeren wij ze door. Het wijzigingsprotocol is alleen van toepassing op de basisset geo-standaarden die in beheer zijn bij Geonovum: 
 <ul><li>Basismodel geo-informatie (NEN 3610);</li>
 <li>Geography Markup Language (GML);</li>
+<li>GeoPackage;</li>
 <li>Nederlandse metadataprofielen voor geografie en services;</li>
-<li>Nederlandse profielen voor Web Feature Services (WFS) en Web Map Services (WMS).</li>
+<li>OGC API Features</li>
+<li>OGC API Tiles;</li>
 </ul>
 <br/>
 
@@ -17,7 +19,7 @@ Het wijzigingsprotocol geo-standaarden is ook van toepassing op elke nieuwe stan
 Het wijzigingsprotocol geo-standaarden is niet van toepassing op de domeinstandaarden die Geonovum in beheer heeft; iedere domeinstandaard in beheer bij Geonovum heeft een eigen wijzigingsprotocol dat in lijn is met het wijzigingsprotocol geo-standaarden. 
 <br/>
 <br/>
-Wijzigingsverzoeken worden gebundeld tot een wijzigingsvoorstel. Het wijzigingsprotocol geeft richting aan het wijzigingsproces dat het wijzigingsvoorstel doorloopt tot het vaststellen van de nieuwe X- of Y-versie van de standaard door de programmaraad (zie figuur 2). Z-wijzigingen worden door Geonovum zelf uitgevoerd zonder tussenkomst van de programmaraad.
+Wijzigingsverzoeken worden gebundeld tot een wijzigingsvoorstel. Het wijzigingsprotocol geeft richting aan het wijzigingsproces dat het wijzigingsvoorstel doorloopt tot het vaststellen van de nieuwe X- of Y-versie van de standaard door de programmaraad, zie [figuur 2](#fig-organogram-geonovum). Z-wijzigingen worden door Geonovum zelf uitgevoerd zonder tussenkomst van de programmaraad.
 Onderdeel van het wijzigingsproces is versiebeheer. 
 <br/>
 <br/>
@@ -25,8 +27,8 @@ Onderdeel van het wijzigingsproces is versiebeheer.
 <figcaption>Proces vaststellen nieuwe standaard</figcaption></figure>
 
 ## Ontwikkeling {#1CE485E4}
-Een standaard kent verschillende levensfasen, zie figuur 5. Iedere standaard in beheer kent deze levensfasen. Vanaf de implementatie/ groeifase is de standaard in beheer en ontwikkelt deze zich door.  
-Bij de doorontwikkeling van de standaard doorloopt het wijzigingsproces stappen Inhoud, Toetsing, Besluitvorming en Implementatie. Het wijzigingsproces alsook het releasebeleid en versiebeheer zijn toegelicht in het <a href='https://docs.geostandaarden.nl/gsw/gsw/' target='_blank'>wijzigingsprotocol geo-standaarden</a>. De hulpmiddelen die het beheerteam inzet, zijn benoemd in de volgende paragraaf <a href='#78583B11'>uitvoering</a>. 
+Een standaard kent verschillende levensfasen, zie [figuur 5](#fig-levensfases-van-een-standaard-volgens-bomos). Iedere standaard in beheer kent deze levensfasen. Vanaf de implementatie/ groeifase is de standaard in beheer en ontwikkelt zich deze door.  
+Bij de doorontwikkeling van de standaard doorloopt het wijzigingsproces stappen Inhoud, Toetsing, Besluitvorming en Implementatie. Het wijzigingsproces alsook het releasebeleid en versiebeheer zijn toegelicht zijn toegelicht in het <a href='https://docs.geostandaarden.nl/gsw/gsw/' target='_blank'>wijzigingsprotocol geo-standaarden</a>. De hulpmiddelen die het IMEV beheerteam inzet, zijn benoemd in de volgende paragraaf <a href='#78583B11'>uitvoering</a>. 
 <br/>
 <br/>
 <figure><img src='media/image5.png' alt='Levensfases van een standaard volgens BOMOS' style='width: 100%;'></img>
@@ -43,17 +45,18 @@ Voor de uitvoering van het beheer en de doorontwikkeling van de geo-standaarden 
 <br/>
 Wij gebruiken hierbij de volgende hulpmiddelen en tooling. 
 De <a href='https://www.geonovum.nl/' target='_blank'>Geonovum website</a> is de centrale toegang om in contact te komen met Geonovum en informatie in te winnen over ons werk: Geonovum verbindt, verkent en verankert. Dit betekent dat nieuwe opdrachten, nieuwe werkzaamheden, nieuwe thema’s via de Geonovum website worden ontsloten en alleen bij hoge uitzondering en een degelijke onderbouwing er een nieuwe separate website wordt ontwikkeld. 
-De publieke werk- en ontwikkelomgeving van de standaarden en de producten van de standaarden is de <a href='https://github.com/Geonovum' target='_blank'>Geonovum GitHub organisatie</a>. Geonovum gebruikt voor de standaarden en de producten van de standaarden die wij ontwikkelen en beheren zogenoemde publicatieservers. Deze publicatieservers gelden als bronlocatie voor de producten van onze standaarden en zijn vindbaar. De publicatieservers zijn: 
+De publieke werk- en ontwikkelomgeving van de standaarden en de producten van de standaarden is de <a href='https://github.com/Geonovum' target='_blank'>Geonovum GitHub</a>. Geonovum gebruikt voor de standaarden en de producten van de standaarden die wij ontwikkelen en beheren zogenoemde publicatieservers. Deze publicatieservers gelden als bronlocatie voor de producten van onze standaarden en zijn vindbaar. De publicatieservers zijn: 
 
 <ul><li><a href='http://register.geostandaarden.nl/' target='_blank'>Technisch register</a>: Publiceren van technische bestanden, behorend bij standaarden ten behoeve van implementatieondersteuning. Het technisch register is de centrale vindplaats voor de informatiemodellen uit het NEN3610 stelsel, plus de technische standaarden die bij die informatiemodellen horen.</li>
 <li><a href='https://definities.geostandaarden.nl/' target='_blank'>Conceptenbibliotheek</a>: Publiceren van semantische begrippen uit informatiemodellen. In de conceptenbibliotheek zijn de definities van concepten die gebruikt worden in NEN3610 informatiemodellen opgenomen, waarmee wij harmonisatie en integratie bevorderen. Ten behoeve van de conceptenbibliotheek hebben we een <a href='https://staging-definities.geostandaarden.nl' target='_blank'>testomgeving van de conceptenbibliotheek.</a></li> 
 <li><a href='https://docs.geostandaarden.nl/' target='_blank'>Documenten register</a>: Publiceren van formele versies (consultatieversie, versie ter vaststelling, vastgestelde versie) van standaarden en eindversies van bijv. documentatie (type: document ‘GN-BASIS’). Door eenduidige, eenmalige bronlocatie van de (technische) documentatie van de standaarden die wij ontwikkelen en beheren in ReSpec (HTML) formaat, zijn de standaarden goed vindbaar op een persistente URI, voor zowel actieve als archiefversies. Met deze werkwijze voorkomen we het werken met oude kopieën (gebruik “standaarden bij de bron”). Daarnaast is de levensloop van standaarden volledig transparant.</li>
+<li><a href='https://modellen.geostandaarden.nl/' target='_blank'>Ontologieën register</a>: Publiceren van ontologieën die zijn afgeleid van informatiemodellen die wij beheren.</a></li>
 </ul>
 
 ## Documentatie {#2EE86838}
 De volgende types documentatie worden door Geonovum gebruikt bij de ontwikkeling en het beheer van standaarden.  
 <br/>
-<ul><li><b>Norm  (no) </b>Een norm is bij een officieel standaardisatie instituut ondergebracht en bevat bindende afspraken. Naast het gebruik van normen is NEN 3610 de enige norm waar Geonovum een inhoudelijke verantwoordelijkheid heeft. Het formele beheer en beslissingen worden genomen in de NEN normcommissie 351240 waar Geonovum de voorzitter van is. NEN is een normalisatie instituut. NEN is net als Geonovum een stichting en kan daarmee geen juridische status toekennen aan normen. Het  verwijst vooral naar de status die de NEN heeft vanuit de overheid en in het werken vanuit lidstaten.  </li>
+<ul><li><b>Norm  (no) </b>Een norm is bij een officieel standaardisatie instituut ondergebracht en bevat bindende afspraken. Naast het gebruik van normen is NEN 3610 de enige norm waar Geonovum een inhoudelijke verantwoordelijkheid heeft. Het formele beheer en beslissingen worden genomen in de NEN normcommissie 351 240 waar Geonovum de voorzitter van is. NEN is een normalisatie instituut. NEN is net als Geonovum een stichting en kan daarmee geen juridische status toekennen aan normen. Het  verwijst vooral naar de status die de NEN heeft vanuit de overheid en in het werken vanuit lidstaten.  </li>
 <li><b>Standaard  (st) </b>Een document met (bindende) afspraken. Overkoepelende term voor de verschillende types standaarden. Normen zijn in principe niet meer bindend dan standaarden. </li>
 <li><b>Informatiemodel (im)</b> Een standaard waarbij door de term informatiemodel te hanteren wordt aangegeven dat het een abstractie (het model) vormt van de werkelijkheid zoals beschreven binnen een bepaalde sector/domein. Informatiemodellen zijn een semantische invulling van normen voor sectoren zoals ruimtelijke ordening, kabels en leidingen, water, etc..</li>
 <li><b>Praktijkrichtlijn (pr) </b>Praktijkrichtlijnen zijn producten die informatie geven, vaak met een technisch karakter, die nodig is voor het toepassen van standaarden. Een praktijkrichtlijn hoort altijd bij een standaard/norm.</li>
