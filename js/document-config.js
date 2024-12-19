@@ -12,7 +12,6 @@ var documentConfig =
   ],
   publishDate: "2024-12-19",
   publishVersion: "2.0.0",
-  ],
   previousPublishDate: "2021-08-18",
   previousPublishVersion: "1.3.1",
   prevVersion: [
