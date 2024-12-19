@@ -12,8 +12,6 @@ var documentConfig =
   ],
   publishDate: "2024-12-19",
   publishVersion: "2.0.0",
-  thisVersion: [
-    "https://docs.geostandaarden.nl/gbd/gsb/"
   ],
   previousPublishDate: "2021-08-18",
   previousPublishVersion: "1.3.1",
