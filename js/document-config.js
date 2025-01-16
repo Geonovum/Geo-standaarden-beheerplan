@@ -4,7 +4,7 @@ var documentConfig =
   subtitle: "Beheer van de basisset geo-standaarden",
   shortName: "gsb",
   pubDomain: "gbd",
-  specStatus: "cv",
+  specStatus: "wv",
   specType: "bd",
   license: "cc-by",
   latestVersion: [
