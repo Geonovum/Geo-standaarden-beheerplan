@@ -7,7 +7,6 @@ Geonovum is een overheidsstichting met een onafhankelijk bestuur, een Raad van T
 <figure><img src='media/image2.png' alt='Organogram Geonovum' style='width: 100%;'></img>
 <figcaption>Organogram Geonovum</figcaption></figure>
 <br/>
-<br/>
 Jaarlijks adviseert de programmaraad aan het bestuur bindend over de inhoud van het basisprogramma. De Raad van Toezicht keurt het uitvoeringsplan, waarin het basisprogramma is opgenomen, goed voordat het bestuur het uitvoeringsplan vaststelt. Eenmaal per kwartaal rapporteert Geonovum aan de programmaraad en het bestuur over de voortgang in het basisprogramma.
 Samenwerking met andere standaardisatieorganisaties is onderdeel van de governance. Mocht de beheertaak van Geonovum voor de basisset geo-standaarden vervallen, dan zullen de intellectuele eigendomsrechten overgaan naar de nieuwe beheerder of bij gebrek daaraan aan het Ministerie van Volkshuisvesting en Ruimtelijke Ordening.
 

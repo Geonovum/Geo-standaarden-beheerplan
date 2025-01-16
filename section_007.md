@@ -22,7 +22,7 @@ De <a href='https://www.geonovum.nl/' target='_blank'>Geonovum website</a> is de
 </ul>
 
 ## Promotie {#5E6289AD}
-Is een (nieuwe versie van de) geo-standaard eenmaal vastgesteld, dan kan hij in gebruik worden genomen. De belangrijkste communicatiefunctie in deze fase is promotie van de standaard. Ter promotie van de standaarden zetten wij verschillende middelen in. De belangrijkste zijn (online) werksessies, presentatie en publicaties. Rond nieuwe standaarden en rond grote wijzigingen brengen wij persberichten uit en schrijven wij artikelen voor de vakbladen. Andere publicatiemiddelen die we inzetten zijn: factsheets (wat is de standaard, wat kan je ermee, hoe voer ik hem in), interviews met gebruikers in bijvoorbeeld het jaarverslag van Geonovum, externe publicaties, etc.
+Is een (nieuwe versie van de) geo-standaard eenmaal vastgesteld, dan kan hij in gebruik worden genomen. De belangrijkste communicatiefunctie in deze fase is promotie van de standaard. Ter promotie van de standaarden zetten wij verschillende middelen in. De belangrijkste zijn (online) werksessies, presentatie en publicaties. Rond nieuwe standaarden en rond grote wijzigingen brengen wij persberichten uit en schrijven wij artikelen voor de vakbladen. Andere publicatiemiddelen die we inzetten zijn: factsheets (wat is de standaard, wat kan je ermee, hoe voer ik hem in), interviews met gebruikers in bijvoorbeeld het jaarverslag van Geonovum, externe publicaties, etc..
 
 ## Escalatie- en klachtenafhandeling {#7B616D3A}
 Escalatie- en klachtenafhandeling betreft het garanderen van het serieus nemen van klachten en deze volgens een zorgvuldige procedure te behandelen. Klachten kunnen ook beschouwd worden als verbetersuggesties.
@@ -32,22 +32,21 @@ De escalatieprocedure wordt niet gebruikt om reguliere wijzigingen sneller door 
 ### Sturende principes bij escalatie {#22EFA0EF}
 Er wordt geen vast proces gegeven om de escalatieprocedure te doorlopen, omdat verschillende situaties wellicht tot een verschillende wijze van handelen moeten leiden. In plaats daarvan zijn onderstaande sturende principes leidend om verantwoordelijkheden te duiden.
 <br/>
+- <b>Signalering</b>
+Uit het werkveld kunnen signalen ontstaan dat er met spoed iets gewijzigd zou moeten worden. Het is vooraf niet aan te geven uit welke kanalen deze geluiden zullen ontstaan. Het is wel van belang om de rol van Geonovum te onderkennen als antennefunctie voor het werkveld. In ieder geval zullen deze signalen op enig moment de opdrachtgever of Geonovum bereiken, en op dat moment zal er overleg gevoerd worden over deze signalen.
 <br/>
-<ul><li><b>Signalering</b></li>
-</ul>
-Uit het werkveld kunnen signalen ontstaan dat er met spoed iets gewijzigd zou moeten worden. Het is vooraf niet aan te geven uit welke kanalen deze geluiden zullen ontstaan. Het is wel van belang om de rol van Geonovum te onderkennen als antennefunctie voor het werkveld. In ieder geval zullen deze signalen op enig moment de opdrachtgever of Geonovum bereiken, en op dat moment zal er overleg gevoerd worden over deze signalen. 
-<ul><li><b>Overleg</b></li>
-</ul>
+- <b>Overleg</b>
 Bij de besluitvorming binnen de escalatieprocedure wordt er in principe overleg gevoerd tussen de programmaraad (opdrachtgever voor het beheer van de geo-standaarden) en Geonovum. Beide partijen raadplegen de betrokkenen daar waar nodig.
-<ul><li><b>Besluitvorming</b></li>
-</ul>
+<br/>
+- <b>Besluitvorming</b>
 De beoordeling of de escalatieprocedure van toepassing is, wordt genomen door de voorzitter van de programmaraad dan wel de contactpersoon bij de programmaraad die beheeropdracht monitort. Ook het besluit <i>welke</i> wijzigingen er precies doorgevoerd moeten worden en op welke manier, wordt genomen door dezelfde persoon.
-<ul><li><b>Coördinatie</b></li>
-</ul>
-De coördinatie tijdens de escalatieprocedure wordt uitgevoerd door de voorzitter de programmaraad dan wel de contactpersoon bij de programmaraad. 
-<ul><li><b>Communicatie met het werkveld</b></li>
-</ul>
+<br/>
+- <b>Coördinatie</b>
+De coördinatie tijdens de escalatieprocedure wordt uitgevoerd door de voorzitter de programmaraad dan wel de contactpersoon bij de programmaraad.
+<br/>
+- <b>Communicatie met het werkveld</b>
 De communicatie met het werkveld wordt uitgevoerd door Geonovum. Als beheerder van de geo-standaarden wordt verwacht dat Geonovum het meest directe contacten heeft met het werkveld.
+<br/>
 
 ### Klachtenafhandeling {#468AE07F}
 Het garanderen van het serieus nemen van klachten kan alleen, door deze volgens een zorgvuldige procedure te behandelen. Klachten kunnen ook beschouwd worden als verbetersuggestie. We onderscheiden daarom twee verschillende type klachten met betrekking tot de standaarden:
