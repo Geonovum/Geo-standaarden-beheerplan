@@ -4,6 +4,17 @@
 Geonovum heeft een onafhankelijke positie als beheerder van de geo-standaarden. Het ontwikkelen en beheren van standaarden doen wij open en transparant. Betrokkenheid van de gemeenschap bij de verdere doorontwikkeling van de geo-standaarden is voor het gebruik en het draagvlak ervan van groot belang. De geo-standaarden gelden en worden gebruikt door publieke en private organisaties en bijvoorbeeld kennisinstellingen. Zij vormen samen de community. Alle publieke en private stakeholders, hebben inspraak over beheer en ontwikkeling van de betreffende geo-standaard (in vorm van leveranciers overleggen of klankbordgroepen) maar zijn niet beslissingsbevoegd. Aan deze inspraak zijn geen kosten verbonden.
 <br/>
 <br/>
+Voor het borgen en vergroten van de samenhang tussen de standaarden in de set geo-standaarden is door Geonovum het Regie-overleg geo-standaarden geïnitieerd. Het regie-overleg bestaat uit: 
+<ul><li>Beheerders van alle op NEN3610 gebaseerde informatiemodellen (dit omvat zowel externe beheerders als beheerders bij Geonovum);</li>
+<li>Beheerders van de geo-standaarden (NEN3610, GML, Nederlandse profielen WMS/WFS en Nederlandse profielen metadata) vanuit het basisprogramma Standaardisatie & Innovatie;</li>
+<li>Liaison(s) met relevante (inter)nationale standaardenorganisaties als OGC, W3C, ISO, NEN, Logius/Forum Standaardisatie en CROW (ingevuld naar behoefte vanuit het basisprogramma Standaardisatie & Innovatie van Geonovum);</li>
+<li>Gebruikersvertegenwoordiging vanuit de gemeenten (VNG Realisatie), provincies, het Rijk (waaronder VRO) en leveranciers (GeoBusiness);</li>
+<li>De voorzittersrol wordt door Geonovum ingevuld. Er is geen officiële secretaris.</li>
+</ul><br/>
+
+De focus van het regieoverleg geo-standaarden ligt op het ondersteunen van verbindingen tussen verschillende partijen op het gebied van geo-standaarden. Het overleg heeft een informerende, signalerende en adviserende functie ten opzichte van de Programmaraad, maar neemt zelf geen besluiten – de Programmaraad besluit. Het Regie-overleg geo-standaarden gaat nadrukkelijk niet over de governance van domeinstandaarden. Wanneer vanuit samenhang de behoefte aan besluitvorming ontstaat bij een individuele domeinstandaard, dan brengt de beheerder dit in de governance van de domeinstandaard in.
+<br/>
+<br/>
 Als er behoefte is aan (verdere) ontwikkeling van een standaard, stellen we hiervoor een werkgroep in. Werkgroepen staan voor iedereen open en er volgt altijd een openbare consultatie voor een nieuwe standaard of nieuwe versie van een standaard. Tijdens het maken van een standaard betrekken we relevante softwareleveranciers in het proces om het risico op een implementatiekloof zo klein mogelijk te houden.
 <br/>
 <br/>
