@@ -5,7 +5,7 @@ Geonovum is een overheidsstichting met een onafhankelijk bestuur, een Raad van T
 Het beheer en de doorontwikkeling van de set geo-standaarden is een basistaak van Geonovum en is belegd in basisprogramma Standaardisatie & Innovatie. De programmaraad treedt op als stuurgroep voor het basisprogramma. De programmaraad beoordeelt en beslist over deze wijzigingsvoorstellen en stelt een nieuwe (versie) van de geo-standaarden vast die bij Geonovum in beheer zijn. Ook is de programmaraad aanspreekpunt voor [klachten](#7E9E8FB1) over het beheer van de standaarden door Geonovum. De <a href='https://www.geonovum.nl/over-geonovum/wie-wij-zijn/programmaraad' target='_blank'>programmaraad</a> bestaat uit vertegenwoordigers van publieke organisaties in het geo-werkveld. Zij zijn de voornaamste belanghebbenden van Geonovum.
 <br/>
 <br/>
-<figure><img src='media/2025_Organogram extern.png' alt='Organogram Geonovum' style='width: 100%;'></img>
+<figure><img src='media/Organogram extern_geen namen.png' alt='Organogram Geonovum' style='width: 100%;'></img>
 <figcaption>Organogram Geonovum</figcaption></figure>
 <br/>
 Jaarlijks adviseert de programmaraad aan het bestuur bindend over de inhoud van het basisprogramma. De Raad van Toezicht keurt het uitvoeringsplan, waarin het basisprogramma is opgenomen, goed voordat het bestuur het uitvoeringsplan vaststelt. Eenmaal per kwartaal rapporteert Geonovum aan de programmaraad en het bestuur over de voortgang in het basisprogramma.
