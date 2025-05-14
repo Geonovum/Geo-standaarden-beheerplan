@@ -19,7 +19,7 @@ Het wijzigingsprotocol geo-standaarden is ook van toepassing op elke nieuwe stan
 Het wijzigingsprotocol geo-standaarden is niet van toepassing op de domeinstandaarden die Geonovum in beheer heeft; iedere domeinstandaard in beheer bij Geonovum heeft een eigen wijzigingsprotocol dat in lijn is met het wijzigingsprotocol geo-standaarden. 
 <br/>
 <br/>
-Wijzigingsverzoeken worden gebundeld tot een wijzigingsvoorstel. Het wijzigingsprotocol geeft richting aan het wijzigingsproces dat het wijzigingsvoorstel doorloopt tot het vaststellen van de nieuwe X- of Y-versie van de standaard door de programmaraad, zie [figuur 2](#fig-organogram-geonovum). Z-wijzigingen worden door Geonovum zelf uitgevoerd zonder tussenkomst van de programmaraad.
+Wijzigingsverzoeken worden gebundeld tot een wijzigingsvoorstel. Het wijzigingsprotocol geeft richting aan het wijzigingsproces dat het wijzigingsvoorstel doorloopt tot het vaststellen van de nieuwe X- of Y-versie van de standaard door de Programmaraad, zie [figuur 2](#fig-organogram-geonovum). Z-wijzigingen worden door Geonovum zelf uitgevoerd zonder tussenkomst van de Programmaraad.
 Onderdeel van het wijzigingsproces is versiebeheer. 
 <br/>
 <br/>
@@ -36,7 +36,7 @@ Bij de doorontwikkeling van de standaard doorloopt het wijzigingsproces stappen 
 
 ## Uitvoering {#78583B11}
 Voor de uitvoering van het beheer en de doorontwikkeling van de geo-standaarden zet Geonovum adviseurs geo-standaarden, informatiemodelleurs en communicatieadviseurs in. Onder leiding van de projectleider van het basisprogramma worden de werkzaamheden in het standaardenteam jaarlijks verdeeld. De leidraad daarbij is: 
-<ul><li>De prioriteiten van het standaardenteam worden afgestemd met de programmaraad van Geonovum;</li>
+<ul><li>De prioriteiten van het standaardenteam worden afgestemd met de Programmaraad van Geonovum;</li>
 <li>Het basisprogramma faciliteert verbinding tussen de beheeropdrachten en projecten van Geonovum, zowel op inhoud als op werkwijze en tooling voor het ontwikkelen van standaarden;</li>
 <li>Het basisprogramma volgt en neemt deel aan relevante internationale standaardisatieorganisaties;</li>
 <li>Het basisprogramma identificeert en verkent innovaties met mogelijke relevantie voor het geo-werkveld;</li>

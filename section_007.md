@@ -36,13 +36,13 @@ Er wordt geen vast proces gegeven om de escalatieprocedure te doorlopen, omdat v
 Uit het werkveld kunnen signalen ontstaan dat er met spoed iets gewijzigd zou moeten worden. Het is vooraf niet aan te geven uit welke kanalen deze geluiden zullen ontstaan. Het is wel van belang om de rol van Geonovum te onderkennen als antennefunctie voor het werkveld. In ieder geval zullen deze signalen op enig moment de opdrachtgever of Geonovum bereiken, en op dat moment zal er overleg gevoerd worden over deze signalen.
 <br/>
 - <b>Overleg</b>
-Bij de besluitvorming binnen de escalatieprocedure wordt er in principe overleg gevoerd tussen de programmaraad (opdrachtgever voor het beheer van de geo-standaarden) en Geonovum. Beide partijen raadplegen de betrokkenen daar waar nodig.
+Bij de besluitvorming binnen de escalatieprocedure wordt er in principe overleg gevoerd tussen de Programmaraad (opdrachtgever voor het beheer van de geo-standaarden) en Geonovum. Beide partijen raadplegen de betrokkenen daar waar nodig.
 <br/>
 - <b>Besluitvorming</b>
-De beoordeling of de escalatieprocedure van toepassing is, wordt genomen door de voorzitter van de programmaraad dan wel de contactpersoon bij de programmaraad die beheeropdracht monitort. Ook het besluit <i>welke</i> wijzigingen er precies doorgevoerd moeten worden en op welke manier, wordt genomen door dezelfde persoon.
+De beoordeling of de escalatieprocedure van toepassing is, wordt genomen door de voorzitter van de Programmaraad dan wel de contactpersoon bij de Programmaraad die beheeropdracht monitort. Ook het besluit <i>welke</i> wijzigingen er precies doorgevoerd moeten worden en op welke manier, wordt genomen door dezelfde persoon.
 <br/>
 - <b>Coördinatie</b>
-De coördinatie tijdens de escalatieprocedure wordt uitgevoerd door de voorzitter de programmaraad dan wel de contactpersoon bij de programmaraad.
+De coördinatie tijdens de escalatieprocedure wordt uitgevoerd door de voorzitter de Programmaraad dan wel de contactpersoon bij de Programmaraad.
 <br/>
 - <b>Communicatie met het werkveld</b>
 De communicatie met het werkveld wordt uitgevoerd door Geonovum. Als beheerder van de geo-standaarden wordt verwacht dat Geonovum het meest directe contacten heeft met het werkveld.
@@ -55,7 +55,7 @@ Het garanderen van het serieus nemen van klachten kan alleen, door deze volgens 
 </ul><br/>
 
 In het eerste geval is het feitelijk geen klacht maar een wens of eis tot het aanpassen van de betreffende geo-standaard. De verantwoordelijke bij Geonovum voor het basisprogramma neemt de klacht in behandeling en de klacht wordt vastgelegd als wijzigingsverzoek en niet als klacht. In dit geval doet Geonovum haar werk goed. 
-In het tweede geval is er sprake van ontevredenheid over de uitvoering van het beheerproces van de geo-standaard en betreft het niet de inhoud, de standaard zelf. De indiener is van mening dat Geonovum, het standaardenteam, dan wel een medewerker van Geonovum het werk niet naar behoren uitvoert. In dat geval wordt de klacht doorgezet naar de programmaraad. 
+In het tweede geval is er sprake van ontevredenheid over de uitvoering van het beheerproces van de geo-standaard en betreft het niet de inhoud, de standaard zelf. De indiener is van mening dat Geonovum, het standaardenteam, dan wel een medewerker van Geonovum het werk niet naar behoren uitvoert. In dat geval wordt de klacht doorgezet naar de Programmaraad. 
 <br/>
 <br/>
 De route van indienen van klachten is bij Geonovum in principe via de helpdesk van de betreffende standaard. Dit is de manier om met Geonovum in contact te komen, vragen te stellen en wensen en eisen met betrekking tot de standaard kenbaar te maken. Door het via een helpdesk te laten verlopen registreren de type issues. De helpdesk route voor zowel vragen, wijzigingsverzoeken, klachten en incidenten geeft een zo compleet mogelijk overzicht in het contact met de gebruikers van de standaarden, over de standaarden. 
