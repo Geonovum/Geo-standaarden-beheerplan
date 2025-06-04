@@ -10,14 +10,11 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/gbd/gsb/"
   ],
-  publishDate: "",
+  //publishDate: "2025-06-04",
   publishVersion: "2.0.0",
   previousPublishDate: "2024-12-19",
   previousPublishVersion: "2.0.0",
-  prevVersion: [
-    "https://docs.geostandaarden.nl/gbd/cv-bd-gsb-20241219/"
-  ],
-  previousMaturity: "def",
+  previousMaturity: "vv",
   github: "https://github.com/Geonovum/Geo-standaarden-beheerplan/",
   issueBase: "https://github.com/Geonovum/Geo-standaarden-beheerplan/",
   edDraftURI: "https://geonovum.github.io/Geo-standaarden-beheerplan/",
