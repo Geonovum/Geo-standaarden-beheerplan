@@ -28,7 +28,7 @@ var documentConfig =
     {
       name: "Dick Krijtenburg",
       company: "Geonovum",
-      companyURL: ""
+      companyURL: "https://www.geonovum.nl/"
     }
   ],
   editors: [
