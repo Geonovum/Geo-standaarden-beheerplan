@@ -1,4 +1,4 @@
-var documentConfig =
+var respecConfig =
 {
   title: "Beheerplan geo-standaarden",
   subtitle: "Beheer van de basisset geo-standaarden",
