@@ -2,8 +2,7 @@ name: Main Workflow
 on:
   push:
     branches:
-      - main
-      - develop
+      - '**'
   pull_request:
   release:
     types: [published]
