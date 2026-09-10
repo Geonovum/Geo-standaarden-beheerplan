@@ -5,12 +5,10 @@ var respecConfig =
   shortName: "gsb",
   pubDomain: "gbd",
   specStatus: "wv",
-  specType: "BD",
+  specType: "bd",
   license: "cc-by",
-  latestVersion: [
-    "https://docs.geostandaarden.nl/gbd/gsb/"
-  ],
-  //publishDate: "2025-06-24",
+  // uitcommentariëren publishDate zorgt dat links naar versions verdwijnen
+  publishDate: "2025-06-24",
   publishVersion: "2.0.0",
   previousPublishDate: "2025-06-24",
   previousPublishVersion: "2.0.0",
