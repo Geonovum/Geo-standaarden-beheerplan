@@ -5,7 +5,7 @@ var respecConfig =
   shortName: "gsb",
   pubDomain: "gbd",
   specStatus: "wv",
-  specType: "bd",
+  specType: "BD",
   license: "cc-by",
   latestVersion: [
     "https://docs.geostandaarden.nl/gbd/gsb/"
